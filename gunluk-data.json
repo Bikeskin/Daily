@@ -8,14 +8,14 @@
         "id": 1773385805841
       },
       {
-        "text": "Robo tarafındaki unrealizedDayPL, client bir şey yapacak mı?",
+        "text": "Robo tarafÄ±ndaki unrealizedDayPL, client bir Åey yapacak mÄ±?",
         "done": false,
         "carried": false,
         "id": 1773385835672
       },
       {
         "text": "Activity fixi",
-        "done": false,
+        "done": true,
         "carried": false,
         "id": 1773404927360
       },
@@ -28,7 +28,7 @@
     ],
     "hayat": [
       {
-        "text": "Amatör denizcilik",
+        "text": "AmatÃ¶r denizcilik",
         "done": false,
         "carried": false,
         "id": 1773410389033
@@ -54,7 +54,7 @@
   "2026-03-16": {
     "is": [
       {
-        "text": "Tüm mergeler",
+        "text": "TÃ¼m mergeler",
         "done": false,
         "carried": false,
         "id": 1773408752461
