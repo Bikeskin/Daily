@@ -26,10 +26,16 @@
         "id": 1773404964170
       },
       {
-        "text": "",
+        "text": "LogErrorInterceptor, Timber.e logları da release de görünüyor.",
         "done": false,
         "carried": false,
         "id": 1773504118602
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1773504438178
       }
     ],
     "hayat": [
