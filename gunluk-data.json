@@ -8,21 +8,33 @@
         "id": 1773385805841
       },
       {
-        "text": "Robo tarafÄ±ndaki unrealizedDayPL, client bir Åey yapacak mÄ±?",
+        "text": "Robo tarafındaki unrealizedDayPL, client bir şey yapacak mı?",
         "done": false,
         "carried": false,
         "id": 1773385835672
       },
       {
-        "text": "Activity fixi Utku ile",
+        "text": "Activity fixi",
+        "done": false,
+        "carried": false,
+        "id": 1773404927360
+      },
+      {
+        "text": "403 gelince ne yapalım?",
         "done": false,
         "carried": false,
         "id": 1773404964170
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1773504118602
       }
     ],
     "hayat": [
       {
-        "text": "AmatÃ¶r denizcilik",
+        "text": "Amatör denizcilik",
         "done": false,
         "carried": false,
         "id": 1773410389033
@@ -48,7 +60,7 @@
   "2026-03-16": {
     "is": [
       {
-        "text": "TÃ¼m mergeler",
+        "text": "Tüm mergeler",
         "done": false,
         "carried": false,
         "id": 1773408752461
