@@ -62,12 +62,6 @@
   "2026-03-14": {
     "is": [
       {
-        "text": "",
-        "done": false,
-        "carried": true,
-        "id": 1773504591220.9226
-      },
-      {
         "text": "LogErrorInterceptor, Timber.e logları da release de görünüyor.",
         "done": false,
         "carried": true,
