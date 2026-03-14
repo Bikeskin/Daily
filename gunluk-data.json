@@ -60,8 +60,46 @@
     "hayat": []
   },
   "2026-03-14": {
-    "is": [],
-    "hayat": []
+    "is": [
+      {
+        "text": "",
+        "done": false,
+        "carried": true,
+        "id": 1773504591220.9226
+      },
+      {
+        "text": "LogErrorInterceptor, Timber.e logları da release de görünüyor.",
+        "done": false,
+        "carried": true,
+        "id": 1773504591220.9175
+      },
+      {
+        "text": "403 gelince ne yapalım?",
+        "done": false,
+        "carried": true,
+        "id": 1773504591220.2385
+      },
+      {
+        "text": "Activity fixi",
+        "done": false,
+        "carried": true,
+        "id": 1773504591220.0583
+      },
+      {
+        "text": "Robo tarafındaki unrealizedDayPL, client bir şey yapacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1773504591220.3066
+      }
+    ],
+    "hayat": [
+      {
+        "text": "Amatör denizcilik",
+        "done": false,
+        "carried": true,
+        "id": 1773504591220.3955
+      }
+    ]
   },
   "2026-03-16": {
     "is": [
