@@ -21,10 +21,16 @@
   "2026-03-15": {
     "is": [
       {
-        "text": "",
+        "text": "Şahan'yaz, hala atnı hata geliyor.",
         "done": false,
         "carried": false,
         "id": 1773597471482
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1773597480396
       }
     ],
     "hayat": [
