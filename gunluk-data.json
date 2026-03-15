@@ -63,10 +63,16 @@
         "id": 1773597548375
       },
       {
-        "text": "",
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": false,
         "id": 1773597552425
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1773597571142
       }
     ],
     "hayat": [
