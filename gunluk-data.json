@@ -27,10 +27,16 @@
         "id": 1773597471482
       },
       {
-        "text": "",
+        "text": "getAtomLatestPrice",
         "done": false,
         "carried": false,
         "id": 1773597480396
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1773597485402
       }
     ],
     "hayat": [
