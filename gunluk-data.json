@@ -27,7 +27,7 @@
         "id": 1773597471482
       },
       {
-        "text": "getAtomLatestPrice",
+        "text": "getAtomLatestPrice ve updateOrder içindeki alanlar nasıl? Şu anki halinde alpacaOrderId var elimizde ama clientOrderId bekliyor model.",
         "done": false,
         "carried": false,
         "id": 1773597480396
