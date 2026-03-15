@@ -71,10 +71,16 @@
     ],
     "hayat": [
       {
-        "text": "",
+        "text": "Araba lastiği al",
         "done": false,
         "carried": false,
         "id": 1773596998434
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1773601149827
       }
     ]
   },
