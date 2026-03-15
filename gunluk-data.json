@@ -19,8 +19,88 @@
     "hayat": []
   },
   "2026-03-15": {
-    "is": [],
-    "hayat": []
+    "is": [
+      {
+        "text": "Şahan'a yaz, hala aynı hata geliyor.",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.094
+      },
+      {
+        "text": "getAtomLatestPrice",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.659
+      },
+      {
+        "text": "1USD altındaysa 4 decimal olayı KW tarafında var mı?",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.6838
+      },
+      {
+        "text": "Tab again to exit -> Tap",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.0122
+      },
+      {
+        "text": "developtan Lokalise kaldıralım. Ya da android için doğru şekilde key dosyası ekletelim.",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.6301
+      },
+      {
+        "text": "Robo tarafındaki unrealizedDayPL, client bir şey yapacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.7258
+      },
+      {
+        "text": "Activity fixi",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.9277
+      },
+      {
+        "text": "403 gelince ne yapalım? Authenticator 401 ile çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.5576
+      },
+      {
+        "text": "LogErrorInterceptor, Timber.e logları da release de görünüyor.",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.7075
+      }
+    ],
+    "hayat": [
+      {
+        "text": "",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.3408
+      },
+      {
+        "text": "Araba Lastiği",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.084
+      },
+      {
+        "text": "Nike AirForce ayakkabıları kim aldı?",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.1943
+      },
+      {
+        "text": "Amatör denizcilik",
+        "done": false,
+        "carried": true,
+        "id": 1773595221282.2903
+      }
+    ]
   },
   "2026-03-14": {
     "is": [
