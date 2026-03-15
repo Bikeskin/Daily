@@ -273,7 +273,7 @@ async function ghGet(cfg) {
   if (!res.ok) throw new Error(`GET ${res.status}`);
   const json = await res.json();
   ghSha = json.sha;
-  return JSON.parse(atob(json.content.replace(/\n/g,'')));
+  const decoded = decodeURIComponent(escape(atob(json.content.replace(/\n/g, "")))); return JSON.parse(decoded);
 }
 
 async function ghPut(cfg, data) {
