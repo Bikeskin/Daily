@@ -21,7 +21,7 @@
   "2026-03-15": {
     "is": [
       {
-        "text": "Şahan'a yaz, hala aynı hata geliyor.",
+        "text": "Şahana",
         "done": false,
         "carried": true,
         "id": 1773595221282.094
@@ -33,7 +33,7 @@
         "id": 1773595221282.659
       },
       {
-        "text": "1USD altındaysa 4 decimal olayı KW tarafında var mı?",
+        "text": "1USD altÄ±ndaysa 4 decimal olayÄ± KW tarafÄ±nda var mÄ±?",
         "done": false,
         "carried": true,
         "id": 1773595221282.6838
@@ -45,13 +45,13 @@
         "id": 1773595221282.0122
       },
       {
-        "text": "developtan Lokalise kaldıralım. Ya da android için doğru şekilde key dosyası ekletelim.",
+        "text": "developtan Lokalise kaldÄ±ralÄ±m. Ya da android iÃ§in doÄru Åekilde key dosyasÄ± ekletelim.",
         "done": false,
         "carried": true,
         "id": 1773595221282.6301
       },
       {
-        "text": "Robo tarafındaki unrealizedDayPL, client bir şey yapacak mı?",
+        "text": "Robo tarafÄ±ndaki unrealizedDayPL, client bir Åey yapacak mÄ±?",
         "done": false,
         "carried": true,
         "id": 1773595221282.7258
@@ -63,13 +63,13 @@
         "id": 1773595221282.9277
       },
       {
-        "text": "403 gelince ne yapalım? Authenticator 401 ile çalışıyor.",
+        "text": "403 gelince ne yapalÄ±m? Authenticator 401 ile Ã§alÄ±ÅÄ±yor.",
         "done": false,
         "carried": true,
         "id": 1773595221282.5576
       },
       {
-        "text": "LogErrorInterceptor, Timber.e logları da release de görünüyor.",
+        "text": "LogErrorInterceptor, Timber.e loglarÄ± da release de gÃ¶rÃ¼nÃ¼yor.",
         "done": false,
         "carried": true,
         "id": 1773595221282.7075
@@ -77,43 +77,43 @@
     ],
     "hayat": [
       {
-        "text": "Araba Lastiği",
+        "text": "Araba LastiÄi",
         "done": false,
         "carried": true,
         "id": 1773595221282.084
       },
       {
-        "text": "Nike AirForce ayakkabıları kim aldı?",
+        "text": "Nike AirForce ayakkabÄ±larÄ± kim aldÄ±?",
         "done": false,
         "carried": true,
         "id": 1773595221282.1943
       },
       {
-        "text": "Amatör denizcilik",
+        "text": "AmatÃ¶r denizcilik",
         "done": false,
         "carried": true,
         "id": 1773595221282.2903
       },
       {
-        "text": "Karınca ilacı",
+        "text": "KarÄ±nca ilacÄ±",
         "done": false,
         "carried": false,
         "id": 1773595247188
       },
       {
-        "text": "Pasaport sürüesi uzatılacak",
+        "text": "Pasaport sÃ¼rÃ¼esi uzatÄ±lacak",
         "done": false,
         "carried": false,
         "id": 1773595250173
       },
       {
-        "text": "F1 için Tod, bein alalım mı?",
+        "text": "F1 iÃ§in Tod, bein alalÄ±m mÄ±?",
         "done": false,
         "carried": false,
         "id": 1773595259055
       },
       {
-        "text": "Ağırlık tablosuna hareketleri ekle",
+        "text": "AÄÄ±rlÄ±k tablosuna hareketleri ekle",
         "done": false,
         "carried": false,
         "id": 1773595280649
@@ -140,7 +140,7 @@
   "2026-03-16": {
     "is": [
       {
-        "text": "Tüm mergeler",
+        "text": "TÃ¼m mergeler",
         "done": false,
         "carried": false,
         "id": 1773408752461
