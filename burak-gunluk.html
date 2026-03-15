@@ -273,12 +273,14 @@ async function ghGet(cfg) {
   if (!res.ok) throw new Error(`GET ${res.status}`);
   const json = await res.json();
   ghSha = json.sha;
-  const decoded = decodeURIComponent(escape(atob(json.content.replace(/\n/g, "")))); return JSON.parse(decoded);
+  const bytes = Uint8Array.from(atob(json.content.replace(/\n/g,"")), c=>c.charCodeAt(0)); return JSON.parse(new TextDecoder("utf-8").decode(bytes));
 }
 
 async function ghPut(cfg, data) {
   const url = `https://api.github.com/repos/${cfg.username}/${cfg.repo}/contents/${DATA_FILE}`;
-  const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
+  const jsonStr = JSON.stringify(data, null, 2);
+  const bytes2 = new TextEncoder().encode(jsonStr);
+  const content = btoa(String.fromCharCode(...bytes2));
   const body = { message:`sync ${new Date().toISOString()}`, content, ...(ghSha?{sha:ghSha}:{}) };
   const res = await fetch(url, {
     method:'PUT',
