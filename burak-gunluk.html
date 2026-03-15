@@ -10,311 +10,78 @@
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #0f0f0d;
-    --surface: #1a1a17;
-    --surface2: #222220;
-    --border: #2e2e2a;
-    --border-bright: #3e3e38;
-    --text: #e8e6df;
-    --text-muted: #7a7870;
-    --text-dim: #4a4844;
-    --is-accent: #c8a96e;
-    --is-glow: rgba(200, 169, 110, 0.15);
-    --hayat-accent: #7eb8a0;
-    --hayat-glow: rgba(126, 184, 160, 0.15);
-    --radius: 6px;
-    --week-tab-h: 44px;
+    --bg: #0f0f0d; --surface: #1a1a17; --surface2: #222220;
+    --border: #2e2e2a; --border-bright: #3e3e38;
+    --text: #e8e6df; --text-muted: #7a7870; --text-dim: #4a4844;
+    --is-accent: #c8a96e; --is-glow: rgba(200,169,110,0.15);
+    --hayat-accent: #7eb8a0; --hayat-glow: rgba(126,184,160,0.15);
+    --radius: 6px; --week-tab-h: 44px;
   }
-
   * { box-sizing: border-box; margin: 0; padding: 0; }
-
-  html, body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    min-height: 100vh;
-    overflow-x: hidden;
-  }
+  html, body { background: var(--bg); color: var(--text); font-family: 'DM Mono', monospace; font-size: 13px; min-height: 100vh; overflow-x: hidden; }
 
   /* SETUP */
-  .setup-screen {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    padding: 24px;
-  }
-
-  .setup-box {
-    width: 100%;
-    max-width: 420px;
-    background: var(--surface);
-    border: 1px solid var(--border-bright);
-    border-radius: 12px;
-    padding: 32px;
-  }
-
-  .setup-title {
-    font-family: 'Instrument Serif', serif;
-    font-size: 26px;
-    margin-bottom: 6px;
-  }
-
-  .setup-sub {
-    font-size: 11px;
-    color: var(--text-muted);
-    margin-bottom: 28px;
-    line-height: 1.6;
-  }
-
+  .setup-screen { display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 24px; }
+  .setup-box { width: 100%; max-width: 420px; background: var(--surface); border: 1px solid var(--border-bright); border-radius: 12px; padding: 32px; }
+  .setup-title { font-family: 'Instrument Serif', serif; font-size: 26px; margin-bottom: 6px; }
+  .setup-sub { font-size: 11px; color: var(--text-muted); margin-bottom: 28px; line-height: 1.6; }
   .setup-field { margin-bottom: 16px; }
-
-  .setup-label {
-    display: block;
-    font-size: 10px;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    margin-bottom: 6px;
-  }
-
-  .setup-input {
-    width: 100%;
-    background: var(--surface2);
-    border: 1px solid var(--border-bright);
-    border-radius: var(--radius);
-    color: var(--text);
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    padding: 10px 12px;
-    outline: none;
-    transition: border-color 0.15s;
-  }
-
+  .setup-label { display: block; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 6px; }
+  .setup-input { width: 100%; background: var(--surface2); border: 1px solid var(--border-bright); border-radius: var(--radius); color: var(--text); font-family: 'DM Mono', monospace; font-size: 12px; padding: 10px 12px; outline: none; transition: border-color 0.15s; }
   .setup-input:focus { border-color: var(--is-accent); }
-
-  .setup-hint {
-    font-size: 10px;
-    color: var(--text-dim);
-    margin-top: 5px;
-    line-height: 1.5;
-  }
-
+  .setup-hint { font-size: 10px; color: var(--text-dim); margin-top: 5px; line-height: 1.5; }
   .setup-hint a { color: var(--is-accent); text-decoration: none; }
-
-  .setup-btn {
-    width: 100%;
-    margin-top: 8px;
-    padding: 12px;
-    background: var(--is-accent);
-    border: none;
-    border-radius: var(--radius);
-    color: var(--bg);
-    font-family: 'DM Mono', monospace;
-    font-size: 13px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: opacity 0.15s;
-  }
-
+  .setup-btn { width: 100%; margin-top: 8px; padding: 12px; background: var(--is-accent); border: none; border-radius: var(--radius); color: var(--bg); font-family: 'DM Mono', monospace; font-size: 13px; font-weight: 500; cursor: pointer; transition: opacity 0.15s; }
   .setup-btn:hover { opacity: 0.85; }
-
-  .setup-error {
-    font-size: 11px;
-    color: #e87070;
-    margin-top: 10px;
-    display: none;
-  }
+  .setup-error { font-size: 11px; color: #e87070; margin-top: 10px; display: none; }
 
   /* SYNC */
-  .sync-status {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 10px;
-    color: var(--text-dim);
-  }
-
-  .sync-dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    background: var(--border-bright);
-    transition: background 0.3s;
-    flex-shrink: 0;
-  }
-
+  .sync-status { display: flex; align-items: center; gap: 6px; font-size: 10px; color: var(--text-dim); }
+  .sync-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--border-bright); transition: background 0.3s; flex-shrink: 0; }
   .sync-dot.syncing { background: var(--is-accent); animation: pulse 1s infinite; }
   .sync-dot.ok { background: var(--hayat-accent); }
   .sync-dot.err { background: #e87070; }
-
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
-  }
+  @keyframes pulse { 0%,100% { opacity:1; } 50% { opacity:0.3; } }
 
   /* HEADER */
-  .header {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background: var(--bg);
-    border-bottom: 1px solid var(--border);
-    padding: 0 20px;
-  }
-
-  .header-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 16px 0 12px;
-    gap: 12px;
-  }
-
-  .app-title {
-    font-family: 'Instrument Serif', serif;
-    font-size: 22px;
-    letter-spacing: -0.5px;
-    color: var(--text);
-    white-space: nowrap;
-  }
-
+  .header { position: sticky; top: 0; z-index: 100; background: var(--bg); border-bottom: 1px solid var(--border); padding: 0 20px; }
+  .header-top { display: flex; align-items: center; justify-content: space-between; padding: 16px 0 12px; gap: 12px; }
+  .app-title { font-family: 'Instrument Serif', serif; font-size: 22px; letter-spacing: -0.5px; color: var(--text); white-space: nowrap; }
   .header-right { display: flex; align-items: center; gap: 10px; }
-
-  .today-btn {
-    background: var(--surface2);
-    border: 1px solid var(--border-bright);
-    color: var(--text-muted);
-    font-family: 'DM Mono', monospace;
-    font-size: 11px;
-    padding: 6px 12px;
-    border-radius: var(--radius);
-    cursor: pointer;
-    transition: all 0.15s;
-    letter-spacing: 0.05em;
-    white-space: nowrap;
-  }
-
+  .today-btn { background: var(--surface2); border: 1px solid var(--border-bright); color: var(--text-muted); font-family: 'DM Mono', monospace; font-size: 11px; padding: 6px 12px; border-radius: var(--radius); cursor: pointer; transition: all 0.15s; letter-spacing: 0.05em; white-space: nowrap; }
   .today-btn:hover { color: var(--text); border-color: var(--is-accent); }
 
   /* WEEK TABS */
-  .week-tabs {
-    display: flex;
-    gap: 2px;
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
+  .week-tabs { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; }
   .week-tabs::-webkit-scrollbar { display: none; }
-
-  .week-tab {
-    flex: 1;
-    min-width: 44px;
-    height: var(--week-tab-h);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 2px;
-    cursor: pointer;
-    border-bottom: 2px solid transparent;
-    transition: all 0.15s;
-    border-radius: 4px 4px 0 0;
-    color: var(--text-dim);
-    position: relative;
-  }
-
+  .week-tab { flex: 1; min-width: 44px; height: var(--week-tab-h); display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; cursor: pointer; border-bottom: 2px solid transparent; transition: all 0.15s; border-radius: 4px 4px 0 0; color: var(--text-dim); position: relative; }
   .week-tab:hover { color: var(--text-muted); background: var(--surface); }
   .week-tab.active { color: var(--text); border-bottom-color: var(--is-accent); background: var(--surface); }
   .week-tab.today-marker .tab-day { color: var(--is-accent); }
-
   .tab-day { font-size: 10px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; }
   .tab-date { font-size: 16px; font-family: 'Instrument Serif', serif; }
-
-  .tab-dot {
-    width: 4px;
-    height: 4px;
-    border-radius: 50%;
-    background: var(--hayat-accent);
-    position: absolute;
-    bottom: 5px;
-  }
+  .tab-dot { width: 4px; height: 4px; border-radius: 50%; background: var(--hayat-accent); position: absolute; bottom: 5px; }
 
   /* WEEK NAV */
-  .week-nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px 0 2px;
-  }
-
+  .week-nav { display: flex; align-items: center; justify-content: space-between; padding: 10px 0 2px; }
   .week-label { font-size: 11px; color: var(--text-muted); letter-spacing: 0.1em; text-transform: uppercase; }
   .nav-arrows { display: flex; gap: 4px; }
-
-  .nav-arrow {
-    background: none;
-    border: 1px solid var(--border);
-    color: var(--text-muted);
-    width: 28px;
-    height: 28px;
-    border-radius: 4px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
-    transition: all 0.15s;
-  }
-
+  .nav-arrow { background: none; border: 1px solid var(--border); color: var(--text-muted); width: 28px; height: 28px; border-radius: 4px; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 14px; transition: all 0.15s; }
   .nav-arrow:hover { border-color: var(--border-bright); color: var(--text); }
 
   /* MAIN */
   .main { padding: 20px; max-width: 900px; margin: 0 auto; }
-
-  .day-header {
-    display: flex;
-    align-items: baseline;
-    gap: 12px;
-    margin-bottom: 20px;
-    padding-bottom: 16px;
-    border-bottom: 1px solid var(--border);
-    flex-wrap: wrap;
-  }
-
+  .day-header { display: flex; align-items: baseline; gap: 12px; margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
   .day-full { font-family: 'Instrument Serif', serif; font-size: 28px; color: var(--text); }
   .day-meta { font-size: 11px; color: var(--text-muted); letter-spacing: 0.08em; }
-
-  .carry-badge {
-    margin-left: auto;
-    font-size: 10px;
-    color: var(--hayat-accent);
-    background: var(--hayat-glow);
-    border: 1px solid rgba(126, 184, 160, 0.3);
-    padding: 3px 8px;
-    border-radius: 20px;
-    cursor: pointer;
-    transition: all 0.15s;
-    white-space: nowrap;
-  }
-
-  .carry-badge:hover { background: rgba(126, 184, 160, 0.25); }
+  .carry-badge { margin-left: auto; font-size: 10px; color: var(--hayat-accent); background: var(--hayat-glow); border: 1px solid rgba(126,184,160,0.3); padding: 3px 8px; border-radius: 20px; cursor: pointer; transition: all 0.15s; white-space: nowrap; }
+  .carry-badge:hover { background: rgba(126,184,160,0.25); }
 
   /* COLUMNS */
   .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
   @media (max-width: 600px) { .columns { grid-template-columns: 1fr; } }
-
   .column-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
-
-  .column-label {
-    font-size: 10px;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    font-weight: 500;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-  }
-
+  .column-label { font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; font-weight: 500; display: flex; align-items: center; gap: 6px; }
   .column-label.is { color: var(--is-accent); }
   .column-label.hayat { color: var(--hayat-accent); }
   .column-dot { width: 6px; height: 6px; border-radius: 50%; }
@@ -324,244 +91,82 @@
 
   /* TASKS */
   .task-list { display: flex; flex-direction: column; gap: 4px; min-height: 40px; }
-
-  .task-item {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    padding: 10px 12px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    transition: all 0.2s;
-    animation: taskIn 0.2s ease;
-  }
-
-  @keyframes taskIn {
-    from { opacity: 0; transform: translateY(-4px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-
+  .task-item { display: flex; align-items: flex-start; gap: 10px; padding: 10px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); transition: all 0.2s; animation: taskIn 0.2s ease; }
+  @keyframes taskIn { from { opacity:0; transform:translateY(-4px); } to { opacity:1; transform:translateY(0); } }
   .task-item:hover { border-color: var(--border-bright); }
   .task-item.carried { border-left: 2px solid var(--hayat-accent); }
   .task-item.done { opacity: 0.45; background: var(--bg); }
-
-  .task-check {
-    width: 16px;
-    height: 16px;
-    border-radius: 3px;
-    border: 1.5px solid var(--border-bright);
-    flex-shrink: 0;
-    margin-top: 1px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: all 0.15s;
-    background: transparent;
-  }
-
+  .task-check { width: 16px; height: 16px; border-radius: 3px; border: 1.5px solid var(--border-bright); flex-shrink: 0; margin-top: 1px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.15s; background: transparent; }
   .task-check:hover { border-color: var(--is-accent); }
   .task-item.done .task-check { background: var(--is-accent); border-color: var(--is-accent); }
   .task-check-icon { display: none; color: var(--bg); font-size: 10px; line-height: 1; }
   .task-item.done .task-check-icon { display: block; }
-
-  .task-text {
-    flex: 1;
-    line-height: 1.5;
-    word-break: break-word;
-    outline: none;
-    min-height: 20px;
-    transition: all 0.2s;
-  }
-
+  .task-text { flex: 1; line-height: 1.5; word-break: break-word; outline: none; min-height: 20px; transition: all 0.2s; }
   .task-item.done .task-text { text-decoration: line-through; color: var(--text-dim); }
-
-  .task-delete {
-    opacity: 0;
-    background: none;
-    border: none;
-    color: var(--text-dim);
-    cursor: pointer;
-    font-size: 14px;
-    padding: 0 2px;
-    transition: all 0.15s;
-    flex-shrink: 0;
-    line-height: 1;
-    margin-top: 2px;
-  }
-
+  .task-delete { opacity: 0; background: none; border: none; color: var(--text-dim); cursor: pointer; font-size: 14px; padding: 0 2px; transition: all 0.15s; flex-shrink: 0; line-height: 1; margin-top: 2px; }
   .task-item:hover .task-delete { opacity: 1; }
   .task-delete:hover { color: #e87070; }
-
-  .add-task-btn {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    width: 100%;
-    padding: 9px 12px;
-    background: none;
-    border: 1px dashed var(--border);
-    border-radius: var(--radius);
-    color: var(--text-dim);
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    cursor: pointer;
-    transition: all 0.15s;
-    margin-top: 4px;
-  }
-
+  .add-task-btn { display: flex; align-items: center; gap: 8px; width: 100%; padding: 9px 12px; background: none; border: 1px dashed var(--border); border-radius: var(--radius); color: var(--text-dim); font-family: 'DM Mono', monospace; font-size: 12px; cursor: pointer; transition: all 0.15s; margin-top: 4px; }
   .add-task-btn:hover { border-color: var(--border-bright); color: var(--text-muted); background: var(--surface); }
 
   /* STATS */
-  .day-stats {
-    display: flex;
-    gap: 16px;
-    margin-top: 28px;
-    padding-top: 16px;
-    border-top: 1px solid var(--border);
-    font-size: 11px;
-    color: var(--text-dim);
-    flex-wrap: wrap;
-  }
-
+  .day-stats { display: flex; gap: 16px; margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--border); font-size: 11px; color: var(--text-dim); flex-wrap: wrap; }
   .stat { display: flex; align-items: center; gap: 6px; }
   .stat-dot { width: 6px; height: 6px; border-radius: 50%; }
-
-  .progress-wrap {
-    margin-top: 8px;
-    height: 2px;
-    background: var(--surface2);
-    border-radius: 2px;
-    overflow: hidden;
-    margin-bottom: 20px;
-  }
-
-  .progress-bar {
-    height: 100%;
-    background: linear-gradient(90deg, var(--is-accent), var(--hayat-accent));
-    border-radius: 2px;
-    transition: width 0.4s ease;
-  }
+  .progress-wrap { margin-top: 8px; height: 2px; background: var(--surface2); border-radius: 2px; overflow: hidden; margin-bottom: 20px; }
+  .progress-bar { height: 100%; background: linear-gradient(90deg, var(--is-accent), var(--hayat-accent)); border-radius: 2px; transition: width 0.4s ease; }
 
   /* MODAL */
-  .modal-overlay {
-    display: none;
-    position: fixed;
-    inset: 0;
-    background: rgba(0,0,0,0.7);
-    z-index: 200;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-  }
-
+  .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.7); z-index: 200; align-items: center; justify-content: center; padding: 20px; }
   .modal-overlay.open { display: flex; }
-
-  .modal {
-    background: var(--surface);
-    border: 1px solid var(--border-bright);
-    border-radius: 10px;
-    padding: 24px;
-    width: 100%;
-    max-width: 380px;
-    animation: modalIn 0.2s ease;
-  }
-
-  @keyframes modalIn {
-    from { opacity: 0; transform: scale(0.96); }
-    to { opacity: 1; transform: scale(1); }
-  }
-
+  .modal { background: var(--surface); border: 1px solid var(--border-bright); border-radius: 10px; padding: 24px; width: 100%; max-width: 380px; animation: modalIn 0.2s ease; }
+  @keyframes modalIn { from { opacity:0; transform:scale(0.96); } to { opacity:1; transform:scale(1); } }
   .modal-title { font-family: 'Instrument Serif', serif; font-size: 20px; margin-bottom: 6px; }
   .modal-sub { font-size: 11px; color: var(--text-muted); margin-bottom: 20px; }
-
-  .modal-tasks {
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    max-height: 280px;
-    overflow-y: auto;
-    margin-bottom: 20px;
-  }
-
-  .modal-task {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 8px 12px;
-    background: var(--surface2);
-    border-radius: var(--radius);
-    font-size: 12px;
-  }
-
-  .modal-task-type {
-    font-size: 9px;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    padding: 2px 6px;
-    border-radius: 3px;
-    flex-shrink: 0;
-  }
-
+  .modal-tasks { display: flex; flex-direction: column; gap: 6px; max-height: 280px; overflow-y: auto; margin-bottom: 20px; }
+  .modal-task { display: flex; align-items: center; gap: 10px; padding: 8px 12px; background: var(--surface2); border-radius: var(--radius); font-size: 12px; }
+  .modal-task-type { font-size: 9px; letter-spacing: 0.1em; text-transform: uppercase; padding: 2px 6px; border-radius: 3px; flex-shrink: 0; }
   .modal-task-type.is { color: var(--is-accent); background: var(--is-glow); }
   .modal-task-type.hayat { color: var(--hayat-accent); background: var(--hayat-glow); }
-
   .modal-actions { display: flex; gap: 8px; justify-content: flex-end; }
-
-  .modal-btn {
-    padding: 9px 18px;
-    border-radius: var(--radius);
-    font-family: 'DM Mono', monospace;
-    font-size: 12px;
-    cursor: pointer;
-    border: 1px solid var(--border-bright);
-    transition: all 0.15s;
-  }
-
+  .modal-btn { padding: 9px 18px; border-radius: var(--radius); font-family: 'DM Mono', monospace; font-size: 12px; cursor: pointer; border: 1px solid var(--border-bright); transition: all 0.15s; }
   .modal-btn.cancel { background: none; color: var(--text-muted); }
   .modal-btn.cancel:hover { color: var(--text); }
   .modal-btn.confirm { background: var(--is-accent); border-color: var(--is-accent); color: var(--bg); font-weight: 500; }
   .modal-btn.confirm:hover { opacity: 0.85; }
-
   .empty-col { padding: 12px; color: var(--text-dim); font-size: 11px; font-style: italic; text-align: center; }
 </style>
 </head>
 <body>
 
-<!-- SETUP SCREEN -->
+<!-- SETUP -->
 <div class="setup-screen" id="setupScreen" style="display:none">
   <div class="setup-box">
     <div class="setup-title">Kurulum</div>
     <div class="setup-sub">Verilerini GitHub'da saklamak için bir kez yapılandır. Bu bilgiler sadece bu cihazda saklanır.</div>
-
     <div class="setup-field">
       <label class="setup-label">GitHub Kullanıcı Adı</label>
       <input class="setup-input" id="setupUsername" placeholder="örn: burak" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
     </div>
-
     <div class="setup-field">
       <label class="setup-label">Repository Adı</label>
-      <input class="setup-input" id="setupRepo" placeholder="örn: gunluk-data" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
-      <div class="setup-hint">GitHub'da oluşturacağın boş bir repo adı. <strong>Public</strong> olmalı.</div>
+      <input class="setup-input" id="setupRepo" placeholder="örn: Daily" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false">
+      <div class="setup-hint">GitHub'da oluşturduğun repo adı. <strong>Public</strong> olmalı.</div>
     </div>
-
     <div class="setup-field">
       <label class="setup-label">Personal Access Token</label>
       <input class="setup-input" id="setupToken" type="password" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off">
       <div class="setup-hint">
-        <a href="https://github.com/settings/tokens/new?scopes=repo&description=Gunluk" target="_blank">github.com → Settings → Developer settings → Personal access tokens → Tokens (classic) → New token</a> — sadece <strong>repo</strong> yetkisini seç.
+        <a href="https://github.com/settings/tokens/new?scopes=repo&description=Gunluk" target="_blank">Settings → Developer settings → Tokens (classic) → New token</a> — sadece <strong>repo</strong> yetkisini seç.
       </div>
     </div>
-
     <button class="setup-btn" onclick="saveSetup()">Başla →</button>
     <div class="setup-error" id="setupError"></div>
   </div>
 </div>
 
-<!-- MAIN APP -->
+<!-- APP -->
 <div id="appScreen" style="display:none">
-
   <div class="header">
     <div class="header-top">
       <div class="app-title">Burak'ın Günlüğü</div>
@@ -582,18 +187,13 @@
     </div>
     <div class="week-tabs" id="weekTabs"></div>
   </div>
-
   <div class="main">
     <div class="day-header">
       <div class="day-full" id="dayFull"></div>
       <div class="day-meta" id="dayMeta"></div>
       <button class="carry-badge" id="carryBadge" onclick="openCarryModal()" style="display:none">↗ Taşı</button>
     </div>
-
-    <div class="progress-wrap">
-      <div class="progress-bar" id="progressBar" style="width:0%"></div>
-    </div>
-
+    <div class="progress-wrap"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
     <div class="columns">
       <div>
         <div class="column-header">
@@ -612,10 +212,8 @@
         <button class="add-task-btn" onclick="addTask('hayat')">+ görev ekle</button>
       </div>
     </div>
-
     <div class="day-stats" id="dayStats"></div>
   </div>
-
 </div>
 
 <!-- CARRY MODAL -->
@@ -640,20 +238,12 @@ const DATA_FILE = 'gunluk-data.json';
 function dateKey(d) {
   return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
 }
-
 function startOfWeek(d) {
   const day = d.getDay();
   const diff = (day === 0) ? -6 : 1 - day;
-  const mon = new Date(d);
-  mon.setDate(d.getDate() + diff);
-  mon.setHours(0,0,0,0);
-  return mon;
+  const mon = new Date(d); mon.setDate(d.getDate()+diff); mon.setHours(0,0,0,0); return mon;
 }
-
-function addDays(d, n) {
-  const r = new Date(d); r.setDate(r.getDate() + n); return r;
-}
-
+function addDays(d, n) { const r = new Date(d); r.setDate(r.getDate()+n); return r; }
 function escapeHtml(s) {
   return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
@@ -662,20 +252,15 @@ function escapeHtml(s) {
 function getConfig() {
   try { return JSON.parse(localStorage.getItem('gunluk_config') || 'null'); } catch { return null; }
 }
-
 function saveSetup() {
   const username = document.getElementById('setupUsername').value.trim();
   const repo = document.getElementById('setupRepo').value.trim();
   const token = document.getElementById('setupToken').value.trim();
   const err = document.getElementById('setupError');
-  if (!username || !repo || !token) {
-    err.textContent = 'Tüm alanları doldur.';
-    err.style.display = 'block';
-    return;
-  }
-  localStorage.setItem('gunluk_config', JSON.stringify({ username, repo, token }));
+  if (!username || !repo || !token) { err.textContent = 'Tüm alanları doldur.'; err.style.display='block'; return; }
+  localStorage.setItem('gunluk_config', JSON.stringify({username, repo, token}));
   err.style.display = 'none';
-  startApp({ username, repo, token });
+  startApp({username, repo, token});
 }
 
 // ── GITHUB API ──
@@ -683,9 +268,7 @@ let ghSha = null;
 
 async function ghGet(cfg) {
   const url = `https://api.github.com/repos/${cfg.username}/${cfg.repo}/contents/${DATA_FILE}`;
-  const res = await fetch(url, {
-    headers: { 'Authorization': `token ${cfg.token}`, 'Accept': 'application/vnd.github.v3+json' }
-  });
+  const res = await fetch(url, { headers: {'Authorization':`token ${cfg.token}`,'Accept':'application/vnd.github.v3+json'} });
   if (res.status === 404) return null;
   if (!res.ok) throw new Error(`GET ${res.status}`);
   const json = await res.json();
@@ -696,10 +279,10 @@ async function ghGet(cfg) {
 async function ghPut(cfg, data) {
   const url = `https://api.github.com/repos/${cfg.username}/${cfg.repo}/contents/${DATA_FILE}`;
   const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
-  const body = { message: `sync ${new Date().toISOString()}`, content, ...(ghSha ? {sha: ghSha} : {}) };
+  const body = { message:`sync ${new Date().toISOString()}`, content, ...(ghSha?{sha:ghSha}:{}) };
   const res = await fetch(url, {
-    method: 'PUT',
-    headers: { 'Authorization': `token ${cfg.token}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+    method:'PUT',
+    headers:{'Authorization':`token ${cfg.token}`,'Accept':'application/vnd.github.v3+json','Content-Type':'application/json'},
     body: JSON.stringify(body)
   });
   if (!res.ok) { const j = await res.json().catch(()=>{}); throw new Error(`PUT ${res.status} ${j?.message||''}`); }
@@ -730,6 +313,10 @@ async function loadFromGitHub() {
     setSyncState('err', 'bağlantı hatası');
     console.error(e);
   }
+  // Otomatik taşıma yüklendikten sonra çalışsın
+  autoCarryUntilToday();
+  // Bugünü son ziyaret olarak kaydet
+  localStorage.setItem('gunluk_last_visit', dateKey(new Date()));
   renderAll();
 }
 
@@ -738,7 +325,7 @@ function scheduleSave() {
   if (syncTimer) clearTimeout(syncTimer);
   syncTimer = setTimeout(async () => {
     try {
-      await ghGet(config); // refresh sha
+      await ghGet(config);
       await ghPut(config, db);
       setSyncState('ok', 'kaydedildi');
     } catch(e) {
@@ -750,15 +337,53 @@ function scheduleSave() {
 
 // ── DATA ──
 function getDayData(key) {
-  if (!db[key]) db[key] = { is: [], hayat: [] };
+  if (!db[key]) db[key] = {is:[], hayat:[]};
   if (!db[key].is) db[key].is = [];
   if (!db[key].hayat) db[key].hayat = [];
   return db[key];
 }
+function saveDayData(key, data) { db[key] = data; scheduleSave(); }
 
-function saveDayData(key, data) {
-  db[key] = data;
-  scheduleSave();
+// ── AUTO CARRY ──
+// Son girişten bugüne kadar gün gün taşı; tamamlanmamışlar silinir kaynaktan
+function autoCarryUntilToday() {
+  const today = new Date(); today.setHours(0,0,0,0);
+  const lastVisitStr = localStorage.getItem('gunluk_last_visit');
+  if (!lastVisitStr) return; // ilk giriş, taşıyacak bir şey yok
+
+  const lastVisit = new Date(lastVisitStr); lastVisit.setHours(0,0,0,0);
+  if (dateKey(lastVisit) === dateKey(today)) return; // bugün zaten girilmiş
+
+  let cursor = new Date(lastVisit);
+  let didCarry = false;
+
+  while (true) {
+    const next = addDays(cursor, 1);
+    if (next > today) break;
+
+    const fromKey = dateKey(cursor);
+    const toKey = dateKey(next);
+    const fromData = getDayData(fromKey);
+    const toData = getDayData(toKey);
+
+    ['is','hayat'].forEach(type => {
+      const incomplete = (fromData[type]||[]).filter(t => !t.done);
+      if (incomplete.length === 0) return;
+      incomplete.forEach(t => {
+        const exists = (toData[type]||[]).some(e => e.text === t.text && e.carried);
+        if (!exists) toData[type].unshift({text:t.text, done:false, carried:true, id:Date.now()+Math.random()});
+      });
+      // Kaynak günden tamamlanmamışları sil
+      fromData[type] = (fromData[type]||[]).filter(t => t.done);
+      db[fromKey] = fromData;
+      db[toKey] = toData;
+    });
+
+    didCarry = true;
+    cursor = next;
+  }
+
+  if (didCarry) scheduleSave();
 }
 
 // ── RENDER ──
@@ -767,16 +392,15 @@ function renderWeekTabs() {
   tabs.innerHTML = '';
   const today = new Date(); today.setHours(0,0,0,0);
   document.getElementById('weekLabel').textContent = `${TR_MONTHS[currentWeekStart.getMonth()]} ${currentWeekStart.getFullYear()}`;
-
   for (let i = 0; i < 7; i++) {
     const d = addDays(currentWeekStart, i);
     const key = dateKey(d);
     const isToday = dateKey(d) === dateKey(today);
     const isSelected = dateKey(d) === dateKey(selectedDate);
     const dd = db[key];
-    const hasIncomplete = dd && ((dd.is||[]).some(t=>!t.done) || (dd.hayat||[]).some(t=>!t.done));
+    const hasIncomplete = dd && ((dd.is||[]).some(t=>!t.done)||(dd.hayat||[]).some(t=>!t.done));
     const tab = document.createElement('div');
-    tab.className = 'week-tab' + (isSelected?' active':'') + (isToday?' today-marker':'');
+    tab.className = 'week-tab'+(isSelected?' active':'')+(isToday?' today-marker':'');
     tab.innerHTML = `<div class="tab-day">${TR_DAYS_SHORT[d.getDay()]}</div><div class="tab-date">${d.getDate()}</div>${hasIncomplete?'<div class="tab-dot"></div>':''}`;
     tab.onclick = () => { selectedDate = new Date(d); renderAll(); };
     tabs.appendChild(tab);
@@ -792,7 +416,7 @@ function renderDay() {
   document.getElementById('dayMeta').textContent = isToday ? '— bugün' : selectedDate.getFullYear();
 
   const prevData = getDayData(dateKey(addDays(selectedDate,-1)));
-  const prevInc = [...(prevData.is||[]).filter(t=>!t.done), ...(prevData.hayat||[]).filter(t=>!t.done)];
+  const prevInc = [...(prevData.is||[]).filter(t=>!t.done),...(prevData.hayat||[]).filter(t=>!t.done)];
   const badge = document.getElementById('carryBadge');
   if (prevInc.length > 0) { badge.style.display='block'; badge.textContent=`↗ ${prevInc.length} görev taşı`; }
   else { badge.style.display='none'; }
@@ -812,7 +436,7 @@ function renderColumn(type, data) {
   if (tasks.length === 0) { list.innerHTML = '<div class="empty-col">boş</div>'; }
   tasks.forEach((task, idx) => {
     const item = document.createElement('div');
-    item.className = 'task-item' + (task.done?' done':'') + (task.carried?' carried':'');
+    item.className = 'task-item'+(task.done?' done':'')+(task.carried?' carried':'');
     item.innerHTML = `
       <div class="task-check" onclick="toggleTask('${type}',${idx})"><span class="task-check-icon">✓</span></div>
       <div class="task-text" contenteditable="true" spellcheck="false"
@@ -828,13 +452,13 @@ function renderColumn(type, data) {
 
 function updateProgress() {
   const data = getDayData(dateKey(selectedDate));
-  const all = [...(data.is||[]), ...(data.hayat||[])];
-  const pct = all.length === 0 ? 0 : Math.round((all.filter(t=>t.done).length / all.length) * 100);
-  document.getElementById('progressBar').style.width = pct + '%';
+  const all = [...(data.is||[]),...(data.hayat||[])];
+  const pct = all.length === 0 ? 0 : Math.round((all.filter(t=>t.done).length/all.length)*100);
+  document.getElementById('progressBar').style.width = pct+'%';
 }
 
 function renderStats(data) {
-  const all = [...(data.is||[]), ...(data.hayat||[])];
+  const all = [...(data.is||[]),...(data.hayat||[])];
   const done = all.filter(t=>t.done).length;
   const total = all.length;
   const stats = document.getElementById('dayStats');
@@ -858,7 +482,7 @@ function toggleTask(type, idx) {
 function addTask(type) {
   const key = dateKey(selectedDate);
   const data = getDayData(key);
-  data[type].push({ text:'', done:false, carried:false, id:Date.now() });
+  data[type].push({text:'', done:false, carried:false, id:Date.now()});
   saveDayData(key, data);
   renderDay();
   setTimeout(() => {
@@ -910,8 +534,8 @@ function handleTaskKeydown(e, type, idx) {
 let carryItems = [];
 
 function openCarryModal() {
-  const prevData = getDayData(dateKey(addDays(selectedDate,-1)));
   const prevDay = addDays(selectedDate,-1);
+  const prevData = getDayData(dateKey(prevDay));
   carryItems = [
     ...(prevData.is||[]).filter(t=>!t.done).map(t=>({...t,type:'is'})),
     ...(prevData.hayat||[]).filter(t=>!t.done).map(t=>({...t,type:'hayat'}))
@@ -933,12 +557,21 @@ function closeCarryModal() { document.getElementById('carryModal').classList.rem
 
 function confirmCarry() {
   const key = dateKey(selectedDate);
+  const prevKey = dateKey(addDays(selectedDate,-1));
   const data = getDayData(key);
+  const prevData = getDayData(prevKey);
+
   carryItems.forEach(t => {
-    const exists = data[t.type].some(e => e.text === t.text && e.carried);
-    if (!exists) data[t.type].unshift({ text:t.text, done:false, carried:true, id:Date.now()+Math.random() });
+    // Bugüne ekle (daha önce taşınmamışsa)
+    const exists = (data[t.type]||[]).some(e => e.text === t.text && e.carried);
+    if (!exists) data[t.type].unshift({text:t.text, done:false, carried:true, id:Date.now()+Math.random()});
+    // Önceki günden tamamlanmamış olanı sil
+    prevData[t.type] = (prevData[t.type]||[]).filter(e => !(e.text === t.text && !e.done));
   });
-  saveDayData(key, data);
+
+  db[key] = data;
+  db[prevKey] = prevData;
+  scheduleSave();
   closeCarryModal();
   renderDay(); renderWeekTabs();
 }
@@ -968,11 +601,8 @@ async function startApp(cfg) {
 }
 
 const existingConfig = getConfig();
-if (existingConfig) {
-  startApp(existingConfig);
-} else {
-  document.getElementById('setupScreen').style.display = 'flex';
-}
+if (existingConfig) { startApp(existingConfig); }
+else { document.getElementById('setupScreen').style.display = 'flex'; }
 </script>
 </body>
 </html>
