@@ -21,7 +21,7 @@
   "2026-03-15": {
     "is": [
       {
-        "text": "Şahan'yaz, hala atnı hata geliyor. LogErrorInterceptor, Timber.e logları da release de görünüyor. Gitmesi iyi çünkü Firebae e logluyor",
+        "text": "Şahan'yaz, hala atnı hata geliyor. LogErrorInterceptor, Timber.e logları da release de görünüyor. Gitmesi iyi çünkü Firebae e logluyor. Release ise sadece endpoint gitsin.",
         "done": false,
         "carried": false,
         "id": 1773597471482
@@ -67,12 +67,6 @@
         "done": false,
         "carried": false,
         "id": 1773597552425
-      },
-      {
-        "text": "",
-        "done": false,
-        "carried": false,
-        "id": 1773597571142
       }
     ],
     "hayat": [
