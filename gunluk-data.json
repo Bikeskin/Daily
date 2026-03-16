@@ -73,7 +73,7 @@
       },
       {
         "text": "Şahan'yaz, hala atnı hata geliyor. LogErrorInterceptor, Timber.e logları da release de görünüyor. Gitmesi iyi çünkü Firebae e logluyor. Release ise sadece endpoint gitsin.",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1773684165276.6528
       },
