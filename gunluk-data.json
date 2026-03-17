@@ -87,7 +87,7 @@
       },
       {
         "text": "iOs tarafında update order US için timeInForce update ekranına taşınmıyor. İki tarafta da küsüratlı deneyince hata alıyoruz. SS Storedakinden, storeda da böyle, niye acaba?",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1773727433109.8005
       },
