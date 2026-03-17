@@ -81,7 +81,7 @@
     "is": [
       {
         "text": "Update order KW için {\"id\":\"b0b0da8c26a3a986d97b630ea14ece6e\",\"status\":400,\"httpMessage\":\"Bad Request\",\"reason\":\"GENERIC\",\"message\":\"Downstream error: 422\",\"path\":\"/api/zag-order/order/3396\",\"timestamp\":\"2026-03-16T19:18:48.118+0000\",\"moreInformation\":\"External service error occurred\"}",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1773727433109.9778
       },
