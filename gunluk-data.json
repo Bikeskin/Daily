@@ -36,70 +36,16 @@
   "2026-03-16": {
     "is": [
       {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.2559
-      },
-      {
-        "text": "Activity fixi",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.0088
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.6123
-      },
-      {
         "text": "tab again to exit",
         "done": true,
         "carried": true,
         "id": 1773684165276.8855
       },
       {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.7288
-      },
-      {
-        "text": "getAtomLatestPrice notu alındı mı?",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.6213
-      },
-      {
         "text": "Şahan'yaz, hala atnı hata geliyor. LogErrorInterceptor, Timber.e logları da release de görünüyor. Gitmesi iyi çünkü Firebae e logluyor. Release ise sadece endpoint gitsin.",
         "done": true,
         "carried": true,
         "id": 1773684165276.6528
-      },
-      {
-        "text": "Mergeleri yap.",
-        "done": false,
-        "carried": false,
-        "id": 1773601212677
-      },
-      {
-        "text": "Review ve Complete sayfasındaki currencyler için commission kararını vermek gerekiyor.",
-        "done": false,
-        "carried": false,
-        "id": 1773686550911
-      },
-      {
-        "text": "iOs tarafında update order US için timeInForce update ekranına taşınmıyor. İki tarafta da küsüratlı deneyince hata alıyoruz. SS Storedakinden, storeda da böyle, niye acaba?",
-        "done": false,
-        "carried": false,
-        "id": 1773688459534
-      },
-      {
-        "text": "Update order KW için {\"id\":\"b0b0da8c26a3a986d97b630ea14ece6e\",\"status\":400,\"httpMessage\":\"Bad Request\",\"reason\":\"GENERIC\",\"message\":\"Downstream error: 422\",\"path\":\"/api/zag-order/order/3396\",\"timestamp\":\"2026-03-16T19:18:48.118+0000\",\"moreInformation\":\"External service error occurred\"}",
-        "done": false,
-        "carried": false,
-        "id": 1773688786253
       }
     ],
     "hayat": [
@@ -108,48 +54,6 @@
         "done": true,
         "carried": true,
         "id": 1773684165276.9175
-      },
-      {
-        "text": "F1 için Tod, Bein alınacak mı?",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.7158
-      },
-      {
-        "text": "Pasaport süresi uzatılacak",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.5774
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.7651
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.5464
-      },
-      {
-        "text": "Nike AirForce ayakkabıları kim aldı?",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.1401
-      },
-      {
-        "text": "Araba lastiği al",
-        "done": false,
-        "carried": true,
-        "id": 1773684165276.4297
-      },
-      {
-        "text": "Bulaşık makinesi",
-        "done": false,
-        "carried": false,
-        "id": 1773695342907
       }
     ]
   },
@@ -172,5 +76,107 @@
   "2026-03-10": {
     "is": [],
     "hayat": []
+  },
+  "2026-03-17": {
+    "is": [
+      {
+        "text": "Update order KW için {\"id\":\"b0b0da8c26a3a986d97b630ea14ece6e\",\"status\":400,\"httpMessage\":\"Bad Request\",\"reason\":\"GENERIC\",\"message\":\"Downstream error: 422\",\"path\":\"/api/zag-order/order/3396\",\"timestamp\":\"2026-03-16T19:18:48.118+0000\",\"moreInformation\":\"External service error occurred\"}",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.9778
+      },
+      {
+        "text": "iOs tarafında update order US için timeInForce update ekranına taşınmıyor. İki tarafta da küsüratlı deneyince hata alıyoruz. SS Storedakinden, storeda da böyle, niye acaba?",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.8005
+      },
+      {
+        "text": "Review ve Complete sayfasındaki currencyler için commission kararını vermek gerekiyor.",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.145
+      },
+      {
+        "text": "Mergeleri yap.",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.3887
+      },
+      {
+        "text": "getAtomLatestPrice notu alındı mı?",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.7817
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.355
+      },
+      {
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.4265
+      },
+      {
+        "text": "Activity fixi",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.0828
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.967
+      }
+    ],
+    "hayat": [
+      {
+        "text": "Bulaşık makinesi",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.9204
+      },
+      {
+        "text": "Araba lastiği al",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.7793
+      },
+      {
+        "text": "Nike AirForce ayakkabıları kim aldı?",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.374
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.5427
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.9414
+      },
+      {
+        "text": "Pasaport süresi uzatılacak",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.7534
+      },
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1773727433109.1592
+      }
+    ]
   }
 }
