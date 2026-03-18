@@ -98,84 +98,90 @@
         "id": 1773727433109.145
       },
       {
-        "text": "Mergeleri yap.",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.3887
-      },
-      {
         "text": "getAtomLatestPrice notu alındı mı?",
         "done": true,
         "carried": true,
         "id": 1773727433109.7817
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.355
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.4265
-      },
-      {
-        "text": "Activity fixi",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.0828
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.967
       }
     ],
     "hayat": [
-      {
-        "text": "Bulaşık makinesi",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.9204
-      },
-      {
-        "text": "Araba lastiği al",
-        "done": false,
-        "carried": true,
-        "id": 1773727433109.7793
-      },
       {
         "text": "Nike AirForce ayakkabıları kim aldı?",
         "done": true,
         "carried": true,
         "id": 1773727433109.374
-      },
+      }
+    ]
+  },
+  "2026-03-18": {
+    "is": [
       {
-        "text": "Amatör denizcilik sınavını yap",
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1773727433109.5427
+        "id": 1773843920059.1746
       },
       {
-        "text": "Karınca ilacı ve evi ilaçla",
+        "text": "Activity fixi",
         "done": false,
         "carried": true,
-        "id": 1773727433109.9414
+        "id": 1773843920059.1963
+      },
+      {
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.32
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.9824
+      },
+      {
+        "text": "Mergeleri yap.",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.4292
+      }
+    ],
+    "hayat": [
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.1394
       },
       {
         "text": "Pasaport süresi uzatılacak",
         "done": false,
         "carried": true,
-        "id": 1773727433109.7534
+        "id": 1773843920059.4617
       },
       {
-        "text": "F1 için Tod, Bein alınacak mı?",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1773727433109.1592
+        "id": 1773843920059.09
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.7932
+      },
+      {
+        "text": "Araba lastiği al",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.654
+      },
+      {
+        "text": "Bulaşık makinesi",
+        "done": false,
+        "carried": true,
+        "id": 1773843920059.3645
       }
     ]
   }
