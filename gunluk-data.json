@@ -116,30 +116,6 @@
   "2026-03-18": {
     "is": [
       {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1773843920059.1746
-      },
-      {
-        "text": "Activity fixi",
-        "done": false,
-        "carried": true,
-        "id": 1773843920059.1963
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1773843920059.32
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1773843920059.9824
-      },
-      {
         "text": "Mergeleri yap.",
         "done": true,
         "carried": true,
@@ -148,40 +124,78 @@
     ],
     "hayat": [
       {
-        "text": "F1 için Tod, Bein alınacak mı?",
+        "text": "Araba lastiği al",
+        "done": true,
+        "carried": true,
+        "id": 1773843920059.654
+      }
+    ]
+  },
+  "2026-03-19": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-03-20": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-03-21": {
+    "is": [
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1773843920059.1394
+        "id": 1774080727868.2214
       },
       {
-        "text": "Pasaport süresi uzatılacak",
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
         "done": false,
         "carried": true,
-        "id": 1773843920059.4617
+        "id": 1774080727868.7253
       },
       {
-        "text": "Karınca ilacı ve evi ilaçla",
+        "text": "Activity fixi",
         "done": false,
         "carried": true,
-        "id": 1773843920059.09
+        "id": 1774080727868.8577
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1774080727868.9404
+      }
+    ],
+    "hayat": [
+      {
+        "text": "Bulaşık makinesi",
+        "done": false,
+        "carried": true,
+        "id": 1774080727868.1682
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1773843920059.7932
+        "id": 1774080727868.2986
       },
       {
-        "text": "Araba lastiği al",
-        "done": true,
-        "carried": true,
-        "id": 1773843920059.654
-      },
-      {
-        "text": "Bulaşık makinesi",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1773843920059.3645
+        "id": 1774080727868.4915
+      },
+      {
+        "text": "Pasaport süresi uzatılacak",
+        "done": false,
+        "carried": true,
+        "id": 1774080727868.4824
+      },
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1774080727868.2295
       }
     ]
   }
