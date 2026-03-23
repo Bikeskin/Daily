@@ -140,30 +140,38 @@
     "hayat": []
   },
   "2026-03-21": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-03-22": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-03-23": {
     "is": [
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1774080727868.2214
+        "id": 1774256927043.5737
       },
       {
         "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
         "done": false,
         "carried": true,
-        "id": 1774080727868.7253
+        "id": 1774256927043.4248
       },
       {
         "text": "Activity fixi",
         "done": false,
         "carried": true,
-        "id": 1774080727868.8577
+        "id": 1774256927043.8262
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1774080727868.9404
+        "id": 1774256927043.6462
       }
     ],
     "hayat": [
@@ -171,31 +179,31 @@
         "text": "Bulaşık makinesi",
         "done": false,
         "carried": true,
-        "id": 1774080727868.1682
+        "id": 1774256927043.8318
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1774080727868.2986
+        "id": 1774256927043.0322
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1774080727868.4915
+        "id": 1774256927043.652
       },
       {
         "text": "Pasaport süresi uzatılacak",
         "done": false,
         "carried": true,
-        "id": 1774080727868.4824
+        "id": 1774256927043.4268
       },
       {
         "text": "F1 için Tod, Bein alınacak mı?",
         "done": false,
         "carried": true,
-        "id": 1774080727868.2295
+        "id": 1774256927043.9146
       }
     ]
   }
