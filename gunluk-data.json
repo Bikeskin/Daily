@@ -161,72 +161,77 @@
   "2026-03-24": {
     "is": [
       {
-        "text": "TODO lara bakıp Şahan'a 6-7sp lik iş ayarla",
-        "done": false,
-        "carried": true,
-        "id": 1774329848501.3845
-      },
-      {
         "text": "Yusuf ve Şahan'ın maddeleri teste çekelim. Konuşalım.",
         "done": true,
         "carried": true,
         "id": 1774329848501.2651
-      },
+      }
+    ],
+    "hayat": []
+  },
+  "2026-03-25": {
+    "is": [
       {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1774329848501.0505
-      },
-      {
-        "text": "Activity fixi",
-        "done": false,
-        "carried": true,
-        "id": 1774329848501.419
+        "id": 1774416333886.4988
       },
       {
         "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
         "done": false,
         "carried": true,
-        "id": 1774329848501.9844
+        "id": 1774416333886.798
       },
       {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "text": "Activity fixi",
         "done": false,
         "carried": true,
-        "id": 1774329848501.9243
+        "id": 1774416333886.256
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1774416333886.392
+      },
+      {
+        "text": "TODO lara bakıp Şahan'a 6-7sp lik iş ayarla",
+        "done": false,
+        "carried": true,
+        "id": 1774416333886.4854
       }
     ],
     "hayat": [
       {
-        "text": "F1 için Tod, Bein alınacak mı?",
+        "text": "Bulaşık makinesi",
         "done": false,
         "carried": true,
-        "id": 1774329848501.4944
-      },
-      {
-        "text": "Pasaport süresi uzatılacak",
-        "done": false,
-        "carried": true,
-        "id": 1774329848501.864
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1774329848501.3066
+        "id": 1774416333887.9834
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1774329848501.9905
+        "id": 1774416333887.703
       },
       {
-        "text": "Bulaşık makinesi",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1774329848501.772
+        "id": 1774416333887.618
+      },
+      {
+        "text": "Pasaport süresi uzatılacak",
+        "done": false,
+        "carried": true,
+        "id": 1774416333887.6287
+      },
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1774416333887.9304
       }
     ]
   }
