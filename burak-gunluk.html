@@ -61,7 +61,7 @@
   .tab-day { font-size: 10px; font-weight: 500; letter-spacing: 0.1em; text-transform: uppercase; }
   .tab-date { font-size: 16px; font-family: 'Instrument Serif', serif; }
   .tab-dot { width: 4px; height: 4px; border-radius: 50%; background: var(--hayat-accent); position: absolute; bottom: 5px; }
-  .tab-counts { display: flex; justify-content: space-between; width: 100%; padding: 0 4px; min-height: 12px; }
+  .tab-counts { display: flex; justify-content: space-between; width: 100%; padding: 0 4px; min-height: 12px; position: absolute; bottom: 6px; left: 0; }
   .tab-count-is { font-size: 9px; font-weight: 500; color: var(--is-accent); line-height: 1; }
   .tab-count-hayat { font-size: 9px; font-weight: 500; color: var(--hayat-accent); line-height: 1; }
 
@@ -415,7 +415,6 @@ function renderWeekTabs() {
       </div>
       <div class="tab-day">${TR_DAYS_SHORT[d.getDay()]}</div>
       <div class="tab-date">${d.getDate()}</div>
-      ${hasIncomplete?'<div class="tab-dot"></div>':''}
     `;
     tab.onclick = () => { selectedDate = new Date(d); renderAll(); };
     tabs.appendChild(tab);
