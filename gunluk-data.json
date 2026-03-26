@@ -172,46 +172,10 @@
   "2026-03-25": {
     "is": [
       {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1774416333886.4988
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1774416333886.798
-      },
-      {
-        "text": "Activity fixi",
-        "done": false,
-        "carried": true,
-        "id": 1774416333886.256
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1774416333886.392
-      },
-      {
         "text": "TODO lara bakıp Şahan'a 6-7sp lik iş ayarla",
         "done": true,
         "carried": true,
         "id": 1774416333886.4854
-      },
-      {
-        "text": "Maintanence işi, notif testi, remotecongif temizlenmesi",
-        "done": false,
-        "carried": false,
-        "id": 1774440890243
-      },
-      {
-        "text": "onesignal test prod stage ayrımı maddesini açtır",
-        "done": false,
-        "carried": false,
-        "id": 1774442395449
       }
     ],
     "hayat": [
@@ -220,30 +184,72 @@
         "done": true,
         "carried": true,
         "id": 1774416333887.9834
-      },
+      }
+    ]
+  },
+  "2026-03-26": {
+    "is": [
       {
-        "text": "Amatör denizcilik sınavını yap",
+        "text": "onesignal test prod stage ayrımı maddesini açtır",
         "done": false,
         "carried": true,
-        "id": 1774416333887.703
+        "id": 1774509408144.6362
       },
       {
-        "text": "Karınca ilacı ve evi ilaçla",
+        "text": "Maintanence işi, notif testi, remotecongif temizlenmesi",
         "done": false,
         "carried": true,
-        "id": 1774416333887.618
+        "id": 1774509408144.452
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1774509408144.3914
+      },
+      {
+        "text": "Activity fixi",
+        "done": false,
+        "carried": true,
+        "id": 1774509408144.4946
+      },
+      {
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
+        "done": false,
+        "carried": true,
+        "id": 1774509408144.5505
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1774509408144.785
+      }
+    ],
+    "hayat": [
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1774509408144.4395
       },
       {
         "text": "Pasaport süresi uzatılacak",
         "done": false,
         "carried": true,
-        "id": 1774416333887.6287
+        "id": 1774509408144.9111
       },
       {
-        "text": "F1 için Tod, Bein alınacak mı?",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1774416333887.9304
+        "id": 1774509408144.6462
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1774509408144.5532
       }
     ]
   }
