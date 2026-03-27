@@ -200,68 +200,73 @@
         "done": true,
         "carried": true,
         "id": 1774509408144.452
-      },
+      }
+    ],
+    "hayat": []
+  },
+  "2026-03-27": {
+    "is": [
       {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "text": "Design takımı ile konuş figmadaki katmanları düzenli yapsınlar. AI için gerekiyor.",
         "done": false,
         "carried": true,
-        "id": 1774509408144.3914
+        "id": 1774603178276.6653
       },
       {
-        "text": "Activity fixi",
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
         "done": false,
         "carried": true,
-        "id": 1774509408144.4946
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1774509408144.5505
+        "id": 1774603178276.7595
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1774509408144.785
+        "id": 1774603178276.4788
       },
       {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
         "done": false,
-        "carried": false,
-        "id": 1774515452561
+        "carried": true,
+        "id": 1774603178276.6501
       },
       {
-        "text": "Design takımı ile konuş figmadaki katmanları düzenli yapsınlar. AI için gerekiyor.",
+        "text": "Activity fixi",
         "done": false,
-        "carried": false,
-        "id": 1774529730838
+        "carried": true,
+        "id": 1774603178276.5068
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1774603178276.989
       }
     ],
     "hayat": [
       {
-        "text": "F1 için Tod, Bein alınacak mı?",
+        "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1774509408144.4395
-      },
-      {
-        "text": "Pasaport süresi uzatılacak",
-        "done": false,
-        "carried": true,
-        "id": 1774509408144.9111
+        "id": 1774603178276.028
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1774509408144.6462
+        "id": 1774603178276.0547
       },
       {
-        "text": "Amatör denizcilik sınavını yap",
+        "text": "Pasaport süresi uzatılacak",
         "done": false,
         "carried": true,
-        "id": 1774509408144.5532
+        "id": 1774603178276.091
+      },
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1774603178276.1003
       }
     ]
   }
