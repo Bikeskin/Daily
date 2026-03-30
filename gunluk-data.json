@@ -220,68 +220,72 @@
     "hayat": []
   },
   "2026-03-29": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-03-30": {
     "is": [
       {
-        "text": "Design takımı ile konuş figmadaki katmanları düzenli yapsınlar. AI için gerekiyor.",
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1774762381588.6807
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1774762381588.4565
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1774762381588.6953
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1774762381588.6084
+        "id": 1774849157471.7742
       },
       {
         "text": "Activity fixi",
         "done": false,
         "carried": true,
-        "id": 1774762381588.8684
+        "id": 1774849157471.724
       },
       {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
         "done": false,
         "carried": true,
-        "id": 1774762381588.154
+        "id": 1774849157471.8389
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1774849157471.881
+      },
+      {
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "done": false,
+        "carried": true,
+        "id": 1774849157471.358
+      },
+      {
+        "text": "Design takımı ile konuş figmadaki katmanları düzenli yapsınlar. AI için gerekiyor.",
+        "done": false,
+        "carried": true,
+        "id": 1774849157471.7673
       }
     ],
     "hayat": [
       {
-        "text": "Amatör denizcilik sınavını yap",
+        "text": "Milletten eşyalarını topla",
         "done": false,
         "carried": true,
-        "id": 1774762381588.1475
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1774762381588.2327
+        "id": 1774849157471.3176
       },
       {
         "text": "F1 için Tod, Bein alınacak mı?",
         "done": false,
         "carried": true,
-        "id": 1774762381588.0842
+        "id": 1774849157471.8823
       },
       {
-        "text": "Milletten eşyalarını topla",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
-        "carried": false,
-        "id": 1774779912769
+        "carried": true,
+        "id": 1774849157471.839
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1774849157471.7715
       }
     ]
   }
