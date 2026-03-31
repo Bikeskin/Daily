@@ -224,92 +224,96 @@
     "hayat": []
   },
   "2026-03-30": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-03-31": {
     "is": [
       {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1774849157471.7742
-      },
-      {
-        "text": "Activity fixi",
-        "done": false,
-        "carried": true,
-        "id": 1774849157471.724
-      },
-      {
-        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
-        "done": false,
-        "carried": true,
-        "id": 1774849157471.8389
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1774849157471.881
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1774849157471.358
+        "id": 1774936624844.2424
       },
       {
         "text": "Design takımı ile konuş figmadaki katmanları düzenli yapsınlar. AI için gerekiyor.",
         "done": false,
         "carried": true,
-        "id": 1774849157471.7673
+        "id": 1774936624844.2285
       },
       {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
         "done": false,
-        "carried": false,
-        "id": 1774874279128
+        "carried": true,
+        "id": 1774936624844.0515
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1774936624844.276
+      },
+      {
+        "text": "developtan Lokalise kaldıralım. Ya da Android için ayrı bir key dosyası oluşturalım",
+        "done": false,
+        "carried": true,
+        "id": 1774936624844.8413
+      },
+      {
+        "text": "Activity fixi",
+        "done": false,
+        "carried": true,
+        "id": 1774936624844.2454
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1774936624844.5188
       }
     ],
     "hayat": [
       {
-        "text": "Milletten eşyalarını topla",
+        "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1774849157471.3176
+        "id": 1774936624844.5925
       },
       {
-        "text": "F1 için Tod, Bein alınacak mı?",
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1774849157471.8823
+        "id": 1774936624844.4932
       },
       {
-        "text": "Karınca ilacı ve evi ilaçla",
+        "text": "Bilgisayar işini hallet m5 pro",
         "done": false,
         "carried": true,
-        "id": 1774849157471.839
+        "id": 1774936624844.3728
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1774849157471.7715
+        "id": 1774936624844.6338
       },
       {
-        "text": "Bilgisayar işini hallet m5 pro",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
-        "carried": false,
-        "id": 1774867332138
+        "carried": true,
+        "id": 1774936624844.1511
       },
       {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "text": "F1 için Tod, Bein alınacak mı?",
         "done": false,
-        "carried": false,
-        "id": 1774879698374
+        "carried": true,
+        "id": 1774936624844.96
       },
       {
-        "text": "Panjurları tamir et",
+        "text": "Milletten eşyalarını topla",
         "done": false,
-        "carried": false,
-        "id": 1774887133219
+        "carried": true,
+        "id": 1774936624844.3618
       }
     ]
   }
