@@ -271,84 +271,89 @@
   "2026-04-07": {
     "is": [
       {
-        "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
-        "done": false,
-        "carried": true,
-        "id": 1775551969810.6414
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1775551969810.42
-      },
-      {
         "text": "Activity fixi",
         "done": true,
         "carried": true,
         "id": 1775551969810.9377
-      },
+      }
+    ],
+    "hayat": []
+  },
+  "2026-04-08": {
+    "is": [
       {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1775551969810.256
+        "id": 1775640654288.298
       },
       {
         "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
         "done": false,
         "carried": true,
-        "id": 1775551969810.3052
+        "id": 1775640654288.271
       },
       {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1775551969810.3394
+        "id": 1775640654288.5867
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1775640654288.887
+      },
+      {
+        "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
+        "done": false,
+        "carried": true,
+        "id": 1775640654288.0225
       }
     ],
     "hayat": [
       {
-        "text": "Milletten eşyalarını topla",
+        "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1775551969810.2844
-      },
-      {
-        "text": "F1 için Tod, Bein alınacak mı?",
-        "done": false,
-        "carried": true,
-        "id": 1775551969810.4277
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1775551969810.9119
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1775551969810.698
-      },
-      {
-        "text": "Bilgisayar işini hallet m5 pro",
-        "done": false,
-        "carried": true,
-        "id": 1775551969810.8552
+        "id": 1775640654288.5955
       },
       {
         "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1775551969810.035
+        "id": 1775640654288.7766
       },
       {
-        "text": "Panjurları tamir et",
+        "text": "Bilgisayar işini hallet m5 pro",
         "done": false,
         "carried": true,
-        "id": 1775551969810.3281
+        "id": 1775640654288.19
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1775640654288.83
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1775640654288.41
+      },
+      {
+        "text": "F1 için Tod, Bein alınacak mı?",
+        "done": false,
+        "carried": true,
+        "id": 1775640654288.978
+      },
+      {
+        "text": "Milletten eşyalarını topla",
+        "done": false,
+        "carried": true,
+        "id": 1775640654288.2883
       }
     ]
   }
