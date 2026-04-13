@@ -284,48 +284,64 @@
     "hayat": []
   },
   "2026-04-09": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-10": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-11": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-12": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-13": {
     "is": [
       {
         "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
         "done": false,
         "carried": true,
-        "id": 1775723488978.357
+        "id": 1776070712030.4883
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1775723488978.3506
+        "id": 1776070712030.546
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1775723488978.2842
+        "id": 1776070712030.1978
       },
       {
         "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
         "done": false,
         "carried": true,
-        "id": 1775723488978.1023
+        "id": 1776070712030.4055
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1775723488978.6255
+        "id": 1776070712030.8953
       },
       {
         "text": "Bahar'dan 18 yaş hesap iste",
         "done": false,
-        "carried": false,
-        "id": 1775763110433
+        "carried": true,
+        "id": 1776070712030.324
       },
       {
         "text": "Maintanence işini uyar",
         "done": false,
-        "carried": false,
-        "id": 1775763120773
+        "carried": true,
+        "id": 1776070712030.4268
       }
     ],
     "hayat": [
@@ -333,43 +349,43 @@
         "text": "Milletten eşyalarını topla",
         "done": false,
         "carried": true,
-        "id": 1775723488978.6023
+        "id": 1776070712030.6992
       },
       {
         "text": "F1 için Tod, Bein alınacak mı?",
         "done": false,
         "carried": true,
-        "id": 1775723488978.3132
+        "id": 1776070712030.9978
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1775723488978.9426
+        "id": 1776070712030.6628
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1775723488978.0676
+        "id": 1776070712030.6719
       },
       {
         "text": "Bilgisayar işini hallet m5 pro",
         "done": false,
         "carried": true,
-        "id": 1775723488978.4443
+        "id": 1776070712030.78
       },
       {
         "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1775723488978.693
+        "id": 1776070712030.647
       },
       {
         "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1775723488978.8828
+        "id": 1776070712030.9417
       }
     ]
   }
