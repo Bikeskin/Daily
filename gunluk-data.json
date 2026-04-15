@@ -311,92 +311,96 @@
     "hayat": []
   },
   "2026-04-14": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-15": {
     "is": [
       {
-        "text": "Settings-SEcurity-Change Password",
+        "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
         "done": false,
         "carried": true,
-        "id": 1776154973814.2134
-      },
-      {
-        "text": "Maintanence işini uyar",
-        "done": false,
-        "carried": true,
-        "id": 1776154973814.2578
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1776154973814.744
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1776154973814.3906
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1776154973814.2395
+        "id": 1776233116165.898
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1776154973814.0225
+        "id": 1776233116165.5593
       },
       {
-        "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1776154973814.2607
+        "id": 1776233116165.5662
+      },
+      {
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.3674
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.8323
+      },
+      {
+        "text": "Maintanence işini uyar",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.233
+      },
+      {
+        "text": "Settings-SEcurity-Change Password",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.2446
       }
     ],
     "hayat": [
       {
-        "text": "Panjurları tamir et",
+        "text": "Milletten eşyalarını topla",
         "done": false,
         "carried": true,
-        "id": 1776154973815.026
-      },
-      {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
-        "done": false,
-        "carried": true,
-        "id": 1776154973815.3875
-      },
-      {
-        "text": "Bilgisayar işini hallet m5 pro",
-        "done": false,
-        "carried": true,
-        "id": 1776154973815.4375
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1776154973815.3364
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1776154973815.1345
+        "id": 1776233116165.5444
       },
       {
         "text": "F1 için Tod, Bein alınacak mı?",
         "done": false,
         "carried": true,
-        "id": 1776154973815.6514
+        "id": 1776233116165.272
       },
       {
-        "text": "Milletten eşyalarını topla",
+        "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1776154973814.9448
+        "id": 1776233116165.9485
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.173
+      },
+      {
+        "text": "Bilgisayar işini hallet m5 pro",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.9902
+      },
+      {
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.9573
+      },
+      {
+        "text": "Panjurları tamir et",
+        "done": false,
+        "carried": true,
+        "id": 1776233116165.1848
       }
     ]
   }
