@@ -315,48 +315,56 @@
     "hayat": []
   },
   "2026-04-15": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-16": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-17": {
     "is": [
       {
         "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
         "done": false,
         "carried": true,
-        "id": 1776233116165.898
+        "id": 1776429497066.5073
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1776233116165.5593
+        "id": 1776429497066.475
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1776233116165.5662
+        "id": 1776429497066.0693
       },
       {
         "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
         "done": false,
         "carried": true,
-        "id": 1776233116165.3674
+        "id": 1776429497066.4363
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1776233116165.8323
+        "id": 1776429497066.7734
       },
       {
         "text": "Maintanence işini uyar",
         "done": false,
         "carried": true,
-        "id": 1776233116165.233
+        "id": 1776429497066.944
       },
       {
         "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1776233116165.2446
+        "id": 1776429497066.587
       }
     ],
     "hayat": [
@@ -364,43 +372,43 @@
         "text": "Milletten eşyalarını topla",
         "done": false,
         "carried": true,
-        "id": 1776233116165.5444
+        "id": 1776429497066.9854
       },
       {
         "text": "F1 için Tod, Bein alınacak mı?",
         "done": false,
         "carried": true,
-        "id": 1776233116165.272
+        "id": 1776429497066.9802
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1776233116165.9485
+        "id": 1776429497066.525
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1776233116165.173
+        "id": 1776429497066.7307
       },
       {
         "text": "Bilgisayar işini hallet m5 pro",
         "done": false,
         "carried": true,
-        "id": 1776233116165.9902
+        "id": 1776429497066.0232
       },
       {
         "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1776233116165.9573
+        "id": 1776429497066.954
       },
       {
         "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1776233116165.1848
+        "id": 1776429497066.2222
       }
     ]
   }
