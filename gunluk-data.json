@@ -430,10 +430,16 @@
         "id": 1776664298329
       },
       {
-        "text": "Terastaki balkondan muşambayı kaldır",
+        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": false,
         "id": 1776664340139
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1776664382304
       }
     ]
   }
