@@ -392,10 +392,16 @@
         "id": 1776678923827
       },
       {
-        "text": "Tasklar ayarla",
+        "text": "Android ekibine task ayarla",
         "done": false,
         "carried": false,
         "id": 1776678932455
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1776679104822
       }
     ],
     "hayat": [
