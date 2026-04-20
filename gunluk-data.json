@@ -331,92 +331,97 @@
     "hayat": []
   },
   "2026-04-19": {
-    "is": [
-      {
-        "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.4993
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.6855
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.1975
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.4116
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.5183
-      },
-      {
-        "text": "Maintanence işini uyar",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.4128
-      },
-      {
-        "text": "Settings-SEcurity-Change Password",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.9795
-      }
-    ],
+    "is": [],
     "hayat": [
-      {
-        "text": "Milletten eşyalarını topla",
-        "done": false,
-        "carried": true,
-        "id": 1776578388107.501
-      },
       {
         "text": "F1 için Tod, Bein alınacak mı?",
         "done": true,
         "carried": true,
         "id": 1776578388107.2773
-      },
+      }
+    ]
+  },
+  "2026-04-20": {
+    "is": [
       {
-        "text": "Karınca ilacı ve evi ilaçla",
+        "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1776578388107.8782
+        "id": 1776664296811.9058
       },
       {
-        "text": "Amatör denizcilik sınavını yap",
+        "text": "Maintanence işini uyar",
         "done": false,
         "carried": true,
-        "id": 1776578388107.92
+        "id": 1776664296811.9045
       },
       {
-        "text": "Bilgisayar işini hallet m5 pro",
+        "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1776578388107.6326
+        "id": 1776664296811.5435
+      },
+      {
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.0635
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.9016
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.0813
+      },
+      {
+        "text": "Lokalise metinlerini tamamlayın. Sheette olup orada olmayanlar var.",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.4216
+      }
+    ],
+    "hayat": [
+      {
+        "text": "Panjurları tamir et",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.9307
       },
       {
         "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1776578388107.2883
+        "id": 1776664296811.3577
       },
       {
-        "text": "Panjurları tamir et",
+        "text": "Bilgisayar işini hallet m5 pro",
         "done": false,
         "carried": true,
-        "id": 1776578388107.396
+        "id": 1776664296811.0222
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.726
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.5388
+      },
+      {
+        "text": "Milletten eşyalarını topla",
+        "done": false,
+        "carried": true,
+        "id": 1776664296811.2168
       }
     ]
   }
