@@ -433,12 +433,6 @@
     ],
     "hayat": [
       {
-        "text": "",
-        "done": false,
-        "carried": true,
-        "id": 1776927380410.554
-      },
-      {
         "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": true,
@@ -479,6 +473,12 @@
         "done": false,
         "carried": true,
         "id": 1776927380410.5818
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1776961931337
       }
     ]
   }
