@@ -372,108 +372,113 @@
   "2026-04-22": {
     "is": [
       {
-        "text": "Settings-SEcurity-Change Password",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.3662
-      },
-      {
         "text": "Maintanence işini uyar",
         "done": true,
         "carried": true,
         "id": 1776845364402.6653
       },
       {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.516
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.1643
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.7012
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.7424
-      },
-      {
         "text": "Stock screener için konuş mobile ekiple",
         "done": true,
         "carried": true,
         "id": 1776845364402.354
+      }
+    ],
+    "hayat": []
+  },
+  "2026-04-23": {
+    "is": [
+      {
+        "text": "",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.2974
       },
       {
         "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
         "done": false,
         "carried": true,
-        "id": 1776845364402.313
+        "id": 1776927380410.65
       },
       {
-        "text": "",
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1776845364402.4846
+        "id": 1776927380410.7026
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.4517
+      },
+      {
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.424
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.8208
+      },
+      {
+        "text": "Settings-SEcurity-Change Password",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.7327
       }
     ],
     "hayat": [
       {
-        "text": "Panjurları tamir et",
+        "text": "",
         "done": false,
         "carried": true,
-        "id": 1776845364402.8735
-      },
-      {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.5532
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.6118
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.8499
-      },
-      {
-        "text": "Milletten eşyalarını topla",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.3572
-      },
-      {
-        "text": "Özge'nin z peçete",
-        "done": false,
-        "carried": true,
-        "id": 1776845364402.4912
+        "id": 1776927380410.554
       },
       {
         "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": true,
-        "id": 1776845364402.4595
+        "id": 1776927380410.5872
       },
       {
-        "text": "",
+        "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1776845364402.6855
+        "id": 1776927380410.4895
+      },
+      {
+        "text": "Milletten eşyalarını topla",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.3516
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.536
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.5046
+      },
+      {
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.9998
+      },
+      {
+        "text": "Panjurları tamir et",
+        "done": false,
+        "carried": true,
+        "id": 1776927380410.5818
       }
     ]
   }
