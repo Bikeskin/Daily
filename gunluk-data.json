@@ -403,98 +403,102 @@
     "hayat": []
   },
   "2026-04-27": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-04-28": {
     "is": [
       {
-        "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
+        "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1777266283990.3728
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.7004
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.2026
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.7983
+        "id": 1777352114499.1506
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1777266283990.7273
+        "id": 1777352114499.717
       },
       {
-        "text": "Settings-SEcurity-Change Password",
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
         "done": false,
         "carried": true,
-        "id": 1777266283990.8074
+        "id": 1777352114499.4531
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.9067
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.7458
+      },
+      {
+        "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.9292
       }
     ],
     "hayat": [
       {
-        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
+        "text": "Dobby mama",
         "done": false,
         "carried": true,
-        "id": 1777266283990.3926
-      },
-      {
-        "text": "Özge'nin z peçete",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.9065
-      },
-      {
-        "text": "Milletten eşyalarını topla",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.6296
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.8174
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.434
-      },
-      {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.119
-      },
-      {
-        "text": "Panjurları tamir et",
-        "done": false,
-        "carried": true,
-        "id": 1777266283990.6184
+        "id": 1777352114499.1128
       },
       {
         "text": "Balkona kapı yaptır",
         "done": false,
         "carried": true,
-        "id": 1777266283990.2078
+        "id": 1777352114499.2102
       },
       {
-        "text": "Dobby mama",
+        "text": "Panjurları tamir et",
         "done": false,
-        "carried": false,
-        "id": 1777266287504
+        "carried": true,
+        "id": 1777352114499.3794
+      },
+      {
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.2444
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.7822
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.0215
+      },
+      {
+        "text": "Milletten eşyalarını topla",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.1519
+      },
+      {
+        "text": "Özge'nin z peçete",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.941
+      },
+      {
+        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
+        "done": false,
+        "carried": true,
+        "id": 1777352114499.3591
       }
     ]
   }
