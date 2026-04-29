@@ -462,10 +462,16 @@
         "id": 1777486592665
       },
       {
-        "text": "",
+        "text": "Yusuf'a Analyticsler için sadece prod releasede çalışacak şekilde olan maddeyi açtır.",
         "done": false,
         "carried": false,
         "id": 1777486952976
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1777486985335
       }
     ],
     "hayat": [
