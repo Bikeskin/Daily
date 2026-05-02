@@ -524,7 +524,7 @@
         "id": 1777730864990.2131
       },
       {
-        "text": "Milletten eşyalarını topla",
+        "text": "Milletten eşyalarını topla,",
         "done": false,
         "carried": true,
         "id": 1777730864990.0608
@@ -540,6 +540,12 @@
         "done": false,
         "carried": true,
         "id": 1777730864990.5105
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1777730880875
       }
     ]
   }
