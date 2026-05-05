@@ -519,7 +519,7 @@
         "id": 1777959473164.8857
       },
       {
-        "text": "Milletten eşyalarını topla",
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
         "id": 1777959473164.3484
@@ -553,6 +553,12 @@
         "done": false,
         "carried": true,
         "id": 1777959473164.9214
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1777986752168
       }
     ]
   }
