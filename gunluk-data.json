@@ -460,104 +460,108 @@
     "hayat": []
   },
   "2026-05-06": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-05-07": {
     "is": [
       {
-        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
         "done": false,
         "carried": true,
-        "id": 1778082398444.8425
-      },
-      {
-        "text": "Local market explore sayfası search ekranı çok kötü, düzelttir.",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.4116
-      },
-      {
-        "text": "Settings-SEcurity-Change Password",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.7437
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.2202
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.7014
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.2532
+        "id": 1778137819487.3057
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1778082398444.8738
+        "id": 1778137819487.966
       },
       {
-        "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1778082398444.9607
+        "id": 1778137819487.0413
+      },
+      {
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.4211
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.0942
+      },
+      {
+        "text": "Settings-SEcurity-Change Password",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.5798
+      },
+      {
+        "text": "Local market explore sayfası search ekranı çok kötü, düzelttir.",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.41
+      },
+      {
+        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.0637
       }
     ],
     "hayat": [
       {
-        "text": "Balkona kapı yaptır",
+        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": true,
-        "id": 1778082398444.4556
-      },
-      {
-        "text": "Panjurları tamir et",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.294
-      },
-      {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.4434
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.5806
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.7754
-      },
-      {
-        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
-        "done": false,
-        "carried": true,
-        "id": 1778082398444.816
+        "id": 1778137819487.0698
       },
       {
         "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1778082398444.9392
+        "id": 1778137819487.2007
       },
       {
-        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
-        "id": 1778082398444.9456
+        "id": 1778137819487.332
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.5198
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.2078
+      },
+      {
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.177
+      },
+      {
+        "text": "Panjurları tamir et",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.904
+      },
+      {
+        "text": "Balkona kapı yaptır",
+        "done": false,
+        "carried": true,
+        "id": 1778137819487.4077
       }
     ]
   }
