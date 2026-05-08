@@ -518,7 +518,7 @@
         "id": 1778240050996.676
       },
       {
-        "text": "update sell all local market",
+        "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
         "carried": false,
         "id": 1778240052423
@@ -540,6 +540,12 @@
         "done": false,
         "carried": false,
         "id": 1778240149626
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1778242036213
       }
     ],
     "hayat": [
