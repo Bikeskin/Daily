@@ -470,60 +470,6 @@
   "2026-05-08": {
     "is": [
       {
-        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.1304
-      },
-      {
-        "text": "Local market explore sayfası search ekranı çok kötü, düzelttir.",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.9973
-      },
-      {
-        "text": "Settings-SEcurity-Change Password",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.7012
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.8318
-      },
-      {
-        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.2659
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.11
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.0625
-      },
-      {
-        "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.676
-      },
-      {
-        "text": "update sell all limit stop vs. doğru çalışmıyor",
-        "done": false,
-        "carried": false,
-        "id": 1778240052423
-      },
-      {
         "text": "good until date tarih seçimi 11i geliyor",
         "done": true,
         "carried": false,
@@ -534,68 +480,127 @@
         "done": true,
         "carried": false,
         "id": 1778240136739
+      }
+    ],
+    "hayat": []
+  },
+  "2026-05-09": {
+    "is": [
+      {
+        "text": "",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.8523
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
-        "carried": false,
-        "id": 1778240149626
+        "carried": true,
+        "id": 1778323976480.492
       },
       {
-        "text": "",
+        "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
-        "carried": false,
-        "id": 1778242036213
+        "carried": true,
+        "id": 1778323976480.3518
+      },
+      {
+        "text": "Commission bottom sheetler ve stockscreener tasarımları için selim ve çağan ile konuş",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.7937
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.6438
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.5574
+      },
+      {
+        "text": "Ömer faruk ile login sonrası marketAccounts işini konuş",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.5068
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.1548
+      },
+      {
+        "text": "Settings-SEcurity-Change Password",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.4863
+      },
+      {
+        "text": "Local market explore sayfası search ekranı çok kötü, düzelttir.",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.6301
+      },
+      {
+        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.8953
       }
     ],
     "hayat": [
       {
-        "text": "Balkona kapı yaptır",
+        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": true,
-        "id": 1778240050996.527
-      },
-      {
-        "text": "Panjurları tamir et",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.5374
-      },
-      {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.3984
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.2217
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.9082
-      },
-      {
-        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
-        "done": false,
-        "carried": true,
-        "id": 1778240050996.622
+        "id": 1778323976480.2979
       },
       {
         "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1778240050996.6663
+        "id": 1778323976480.927
       },
       {
-        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
-        "id": 1778240050996.655
+        "id": 1778323976480.9143
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.1035
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.8567
+      },
+      {
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.877
+      },
+      {
+        "text": "Panjurları tamir et",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.7065
+      },
+      {
+        "text": "Balkona kapı yaptır",
+        "done": false,
+        "carried": true,
+        "id": 1778323976480.6438
       }
     ]
   }
