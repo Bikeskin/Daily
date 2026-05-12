@@ -514,7 +514,7 @@
     "is": [
       {
         "text": "Portfolio ekranına status sadece ACTIVE değil UPDATED ise de girebilsin.",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1778590939864.3984
       },
