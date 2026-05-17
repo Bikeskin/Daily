@@ -542,72 +542,80 @@
     "hayat": []
   },
   "2026-05-15": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-05-16": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-05-17": {
     "is": [
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1778823434514.769
+        "id": 1779012017732.8328
       },
       {
         "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
         "carried": true,
-        "id": 1778823434514.6543
+        "id": 1779012017732.6992
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1778823434514.685
+        "id": 1779012017732.297
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1778823434514.3257
+        "id": 1779012017732.8357
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1778823434514.9
+        "id": 1779012017732.3398
       },
       {
         "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1778823434514.6687
+        "id": 1779012017732.8025
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1778823434514.2598
+        "id": 1779012017732.0571
       },
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1778823434514.2207
+        "id": 1779012017732.2266
       },
       {
         "text": "Lokalise için Android iOs aynı key farklı value oluyor",
         "done": false,
         "carried": true,
-        "id": 1778823434514.8481
+        "id": 1779012017732.873
       },
       {
         "text": "Github ayarlarını Mustafa ile yap.",
         "done": false,
-        "carried": false,
-        "id": 1778832448520
+        "carried": true,
+        "id": 1779012017732.2507
       },
       {
         "text": "çocukların jiraları ilerlet",
         "done": false,
-        "carried": false,
-        "id": 1778852907687
+        "carried": true,
+        "id": 1779012017732.835
       }
     ],
     "hayat": [
@@ -615,55 +623,55 @@
         "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": true,
-        "id": 1778823434514.0078
+        "id": 1779012017732.172
       },
       {
         "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1778823434514.8977
+        "id": 1779012017732.6255
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
-        "id": 1778823434514.4556
+        "id": 1779012017732.3445
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1778823434514.0823
+        "id": 1779012017732.4358
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1778823434514.0176
+        "id": 1779012017732.501
       },
       {
         "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1778823434514.0115
+        "id": 1779012017732.066
       },
       {
         "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1778823434514.0088
+        "id": 1779012017732.1353
       },
       {
         "text": "Balkona kapı yaptır",
         "done": false,
         "carried": true,
-        "id": 1778823434514.2988
+        "id": 1779012017732.3374
       },
       {
         "text": "Option sorunu zad slack",
         "done": false,
-        "carried": false,
-        "id": 1778863132573
+        "carried": true,
+        "id": 1779012017732.9521
       }
     ]
   }
