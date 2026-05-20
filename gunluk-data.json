@@ -560,66 +560,75 @@
         "done": true,
         "carried": true,
         "id": 1779092831444.7039
-      },
+      }
+    ],
+    "hayat": []
+  },
+  "2026-05-19": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-05-20": {
+    "is": [
       {
         "text": "Github ayarlarını Mustafa ile yap.",
         "done": false,
         "carried": true,
-        "id": 1779092831444.6238
+        "id": 1779270684668.8936
       },
       {
         "text": "Lokalise için Android iOs aynı key farklı value oluyor",
         "done": false,
         "carried": true,
-        "id": 1779092831444.4084
+        "id": 1779270684668.9084
       },
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1779092831444.8335
+        "id": 1779270684668.2847
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1779092831444.2517
+        "id": 1779270684668.2283
       },
       {
         "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1779092831444.8804
+        "id": 1779270684668.9587
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1779092831444.0093
+        "id": 1779270684668.97
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1779092831444.5588
+        "id": 1779270684668.184
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1779092831444.179
+        "id": 1779270684668.7227
       },
       {
         "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
         "carried": true,
-        "id": 1779092831444.2144
+        "id": 1779270684668.954
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1779092831444.889
+        "id": 1779270684668.3335
       }
     ],
     "hayat": [
@@ -627,55 +636,55 @@
         "text": "Option sorunu zad slack",
         "done": false,
         "carried": true,
-        "id": 1779092831444.4443
+        "id": 1779270684668.8054
       },
       {
         "text": "Balkona kapı yaptır",
         "done": false,
         "carried": true,
-        "id": 1779092831444.48
+        "id": 1779270684668.3035
       },
       {
         "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1779092831444.371
+        "id": 1779270684668.1
       },
       {
         "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
         "done": false,
         "carried": true,
-        "id": 1779092831444.918
+        "id": 1779270684668.5466
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1779092831444.4824
+        "id": 1779270684668.2236
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1779092831444.6848
+        "id": 1779270684668.4143
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
-        "id": 1779092831444.9966
+        "id": 1779270684668.2798
       },
       {
         "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1779092831444.2207
+        "id": 1779270684668.834
       },
       {
         "text": "Terastaki balkondaki koltuktan naylonu kaldır",
         "done": false,
         "carried": true,
-        "id": 1779092831444.1804
+        "id": 1779270684668.386
       }
     ]
   }
