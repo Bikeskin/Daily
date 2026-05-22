@@ -573,128 +573,132 @@
     "hayat": []
   },
   "2026-05-21": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-05-22": {
     "is": [
       {
-        "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
+        "text": "Github ayarlarını Mustafa ile yap.",
         "done": false,
         "carried": true,
-        "id": 1779347585206.118
-      },
-      {
-        "text": "update sell all limit stop vs. doğru çalışmıyor",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.0125
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.0364
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.8835
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.138
-      },
-      {
-        "text": "Settings-SEcurity-Change Password",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.8245
-      },
-      {
-        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.8206
-      },
-      {
-        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.8328
+        "id": 1779435153036.371
       },
       {
         "text": "Lokalise için Android iOs aynı key farklı value oluyor",
         "done": false,
         "carried": true,
-        "id": 1779347585206.1003
+        "id": 1779435153036.5278
       },
       {
-        "text": "Github ayarlarını Mustafa ile yap.",
+        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1779347585206.9941
+        "id": 1779435153036.5435
+      },
+      {
+        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.9358
+      },
+      {
+        "text": "Settings-SEcurity-Change Password",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.802
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.1287
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.2432
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.5066
+      },
+      {
+        "text": "update sell all limit stop vs. doğru çalışmıyor",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.3904
+      },
+      {
+        "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.9126
       }
     ],
     "hayat": [
       {
-        "text": "Cold brew yap",
+        "text": "Option sorunu zad slack",
         "done": false,
         "carried": true,
-        "id": 1779347585206.4915
-      },
-      {
-        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.7446
-      },
-      {
-        "text": "Özge'nin z peçete",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.0366
-      },
-      {
-        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.1506
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.7083
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.6704
-      },
-      {
-        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.0542
-      },
-      {
-        "text": "Panjurları tamir et",
-        "done": false,
-        "carried": true,
-        "id": 1779347585206.107
+        "id": 1779435153036.7534
       },
       {
         "text": "Balkona kapı yaptır",
         "done": false,
         "carried": true,
-        "id": 1779347585206.0918
+        "id": 1779435153036.5127
       },
       {
-        "text": "Option sorunu zad slack",
+        "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1779347585206.857
+        "id": 1779435153036.5542
+      },
+      {
+        "text": "Spor hareketlerinin nasıl yapıldığına bak. Değiştirmek istediklerinin yerine yenilerini koy",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.2546
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.4248
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.5957
+      },
+      {
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.281
+      },
+      {
+        "text": "Özge'nin z peçete",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.2957
+      },
+      {
+        "text": "Terastaki balkondaki koltuktan naylonu kaldır",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.9614
+      },
+      {
+        "text": "Cold brew yap",
+        "done": false,
+        "carried": true,
+        "id": 1779435153036.4841
       }
     ]
   }
