@@ -685,54 +685,72 @@
     "hayat": []
   },
   "2026-06-11": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-10": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-12": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-13": {
     "is": [
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1781187593043.4075
+        "id": 1781348392845.5908
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1781187593043.2651
+        "id": 1781348392845.8857
       },
       {
         "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1781187593043.147
+        "id": 1781348392845.2065
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1781187593043.8503
+        "id": 1781348392845.748
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1781187593043.533
+        "id": 1781348392845.6284
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1781187593043.5205
+        "id": 1781348392845.379
       },
       {
         "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
         "carried": true,
-        "id": 1781187593043.4749
+        "id": 1781348392845.9128
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1781187593043.0615
+        "id": 1781348392845.896
+      },
+      {
+        "text": "",
+        "done": false,
+        "carried": false,
+        "id": 1781348394210
       }
     ],
     "hayat": [
@@ -740,54 +758,50 @@
         "text": "Balkona kapı yaptır",
         "done": false,
         "carried": true,
-        "id": 1781187593043.8267
+        "id": 1781348392845.449
       },
       {
         "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1781187593043.588
+        "id": 1781348392845.571
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1781187593043.8452
+        "id": 1781348392845.573
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1781187593043.6753
+        "id": 1781348392845.1677
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
-        "id": 1781187593043.6682
+        "id": 1781348392845.8596
       },
       {
         "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1781187593043.0771
+        "id": 1781348392845.2688
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1781187593043.8113
+        "id": 1781348392845.2153
       },
       {
         "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1781187593043.8076
+        "id": 1781348392845.298
       }
     ]
-  },
-  "2026-06-10": {
-    "is": [],
-    "hayat": []
   }
 }
