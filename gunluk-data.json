@@ -787,6 +787,12 @@
         "done": false,
         "carried": true,
         "id": 1782122553058.1042
+      },
+      {
+        "text": "preOrderEntity'den roundTradeCount ve clock alanlarını kullanılmıyorsa kaldır",
+        "done": false,
+        "carried": false,
+        "id": 1782122554839
       }
     ],
     "hayat": [
