@@ -733,66 +733,90 @@
     "hayat": []
   },
   "2026-06-22": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-23": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-24": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-25": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-26": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-27": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-06-28": {
     "is": [
       {
         "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1782122553058.5942
+        "id": 1782662496048.8264
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1782122553058.1265
+        "id": 1782662496048.2085
       },
       {
         "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
         "carried": true,
-        "id": 1782122553058.8696
+        "id": 1782662496048.2754
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1782122553058.643
+        "id": 1782662496048.8064
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1782122553058.815
+        "id": 1782662496048.8794
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1782122553058.633
+        "id": 1782662496048.3572
       },
       {
         "text": "Settings-SEcurity-Change Password",
         "done": false,
         "carried": true,
-        "id": 1782122553058.6873
+        "id": 1782662496048.8564
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1782122553058.3328
+        "id": 1782662496048.1387
       },
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1782122553058.1042
+        "id": 1782662496048.971
       },
       {
         "text": "preOrderEntity'den roundTradeCount ve clock alanlarını kullanılmıyorsa kaldır",
         "done": false,
-        "carried": false,
-        "id": 1782122554839
+        "carried": true,
+        "id": 1782662496048.9888
       }
     ],
     "hayat": [
@@ -800,49 +824,49 @@
         "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1782122553058.211
+        "id": 1782662496048.9033
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1782122553058.6519
+        "id": 1782662496048.1748
       },
       {
         "text": "Özge'nin z peçete",
         "done": false,
         "carried": true,
-        "id": 1782122553058.4382
+        "id": 1782662496048.6777
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy",
         "done": false,
         "carried": true,
-        "id": 1782122553058.5493
+        "id": 1782662496048.6213
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1782122553058.506
+        "id": 1782662496048.6826
       },
       {
         "text": "Amatör denizcilik sınavını yap",
         "done": false,
         "carried": true,
-        "id": 1782122553058.2026
+        "id": 1782662496048.2612
       },
       {
         "text": "Panjurları tamir et",
         "done": false,
         "carried": true,
-        "id": 1782122553058.8687
+        "id": 1782662496048.236
       },
       {
         "text": "Balkona kapı yaptır",
         "done": false,
         "carried": true,
-        "id": 1782122553058.0312
+        "id": 1782662496048.2466
       }
     ]
   }
