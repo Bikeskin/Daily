@@ -843,98 +843,102 @@
     "hayat": []
   },
   "2026-07-13": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-07-14": {
     "is": [
       {
-        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
+        "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1783924622040.0264
-      },
-      {
-        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.2104
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.4773
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.663
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.8176
-      },
-      {
-        "text": "update sell all limit stop vs. doğru çalışmıyor",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.584
+        "id": 1784030063506.169
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1783924622040.26
+        "id": 1784030063506.8057
       },
       {
-        "text": "refresh token android konusu teymur ve şener",
+        "text": "update sell all limit stop vs. doğru çalışmıyor",
         "done": false,
         "carried": true,
-        "id": 1783924622040.6206
+        "id": 1784030063506.3235
+      },
+      {
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.7217
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.392
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.7803
+      },
+      {
+        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.5266
+      },
+      {
+        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.833
       }
     ],
     "hayat": [
       {
-        "text": "Renkli şeffaf koli bandı veya renkli asetat kağıdı (0.1mm) ve çok ince çift taraflı bant",
+        "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1783924622040.182
-      },
-      {
-        "text": "Balkona kapı yaptır",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.567
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.0154
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.3254
-      },
-      {
-        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
-        "done": false,
-        "carried": true,
-        "id": 1783924622040.488
+        "id": 1784030063506.069
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1783924622040.7803
+        "id": 1784030063506.496
       },
       {
-        "text": "kuveyt zad hesabı aç",
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
         "done": false,
         "carried": true,
-        "id": 1783924622040.803
+        "id": 1784030063506.146
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.686
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.163
+      },
+      {
+        "text": "Balkona kapı yaptır",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.511
+      },
+      {
+        "text": "Renkli şeffaf koli bandı veya renkli asetat kağıdı (0.1mm) ve çok ince çift taraflı bant",
+        "done": false,
+        "carried": true,
+        "id": 1784030063506.2058
       }
     ]
   }
