@@ -1017,86 +1017,90 @@
     "hayat": []
   },
   "2026-08-22": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-08-23": {
     "is": [
       {
-        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
+        "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1787409284483.0654
-      },
-      {
-        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.7812
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.742
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.533
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.9026
+        "id": 1787472145368.1008
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1787409284483.9514
+        "id": 1787472145368.2585
       },
       {
-        "text": "refresh token android konusu teymur ve şener",
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1787409284483.7039
+        "id": 1787472145368.1394
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.218
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.3496
+      },
+      {
+        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.0151
+      },
+      {
+        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.2095
       }
     ],
     "hayat": [
       {
-        "text": "Balkona kapı yaptır",
+        "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1787409284483.2007
-      },
-      {
-        "text": "Amatör denizcilik sınavını yap",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.4465
-      },
-      {
-        "text": "Karınca ilacı ve evi ilaçla",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.4973
-      },
-      {
-        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
-        "done": false,
-        "carried": true,
-        "id": 1787409284483.8916
+        "id": 1787472145368.65
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1787409284483.1028
+        "id": 1787472145368.5498
       },
       {
-        "text": "kuveyt zad hesabı aç",
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
         "done": false,
         "carried": true,
-        "id": 1787409284483.045
+        "id": 1787472145368.6248
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.3594
+      },
+      {
+        "text": "Amatör denizcilik sınavını yap",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.8562
+      },
+      {
+        "text": "Balkona kapı yaptır",
+        "done": false,
+        "carried": true,
+        "id": 1787472145368.2776
       }
     ]
   }
