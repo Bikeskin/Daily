@@ -1053,48 +1053,56 @@
     "hayat": []
   },
   "2026-08-31": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-09-01": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-09-02": {
     "is": [
       {
         "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1788153963778.1882
+        "id": 1788352806449.353
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1788153963778.9226
+        "id": 1788352806449.6597
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1788153963778.9895
+        "id": 1788352806449.7793
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1788153963778.1646
+        "id": 1788352806449.5894
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1788153963778.6633
+        "id": 1788352806449.0864
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1788153963778.2773
+        "id": 1788352806449.0486
       },
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1788153963778.3665
+        "id": 1788352806449.2358
       }
     ],
     "hayat": [
@@ -1102,25 +1110,25 @@
         "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1788153963778.565
+        "id": 1788352806449.7026
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1788153963778.0146
+        "id": 1788352806449.172
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
         "done": false,
         "carried": true,
-        "id": 1788153963778.996
+        "id": 1788352806449.9778
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1788153963778.6545
+        "id": 1788352806449.751
       }
     ]
   }
