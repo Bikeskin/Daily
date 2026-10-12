@@ -1177,74 +1177,118 @@
     "hayat": []
   },
   "2026-10-01": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-02": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-03": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-04": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-05": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-06": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-07": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-08": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-09": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-10": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-11": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-12": {
     "is": [
       {
-        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
+        "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1790846664432.8047
-      },
-      {
-        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1790846664432.8877
-      },
-      {
-        "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
-        "carried": true,
-        "id": 1790846664432.0618
-      },
-      {
-        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
-        "carried": true,
-        "id": 1790846664432.898
-      },
-      {
-        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
-        "carried": true,
-        "id": 1790846664432.8687
+        "id": 1791789148236.5186
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1790846664432.6072
+        "id": 1791789148236.0728
       },
       {
-        "text": "refresh token android konusu teymur ve şener",
+        "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1790846664432.083
+        "id": 1791789148236.609
+      },
+      {
+        "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
+        "done": false,
+        "carried": true,
+        "id": 1791789148236.3093
+      },
+      {
+        "text": "HeaderHelper her yerde kullanılsın!!!",
+        "done": false,
+        "carried": true,
+        "id": 1791789148236.6624
+      },
+      {
+        "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
+        "done": false,
+        "carried": true,
+        "id": 1791789148236.8638
+      },
+      {
+        "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
+        "done": false,
+        "carried": true,
+        "id": 1791789148236.681
       }
     ],
     "hayat": [
       {
-        "text": "Karınca ilacı ve evi ilaçla",
+        "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1790846664432.5288
-      },
-      {
-        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
-        "done": false,
-        "carried": true,
-        "id": 1790846664432.6638
+        "id": 1791789148236.6072
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1790846664432.0212
+        "id": 1791789148236.024
       },
       {
-        "text": "kuveyt zad hesabı aç",
+        "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
         "done": false,
         "carried": true,
-        "id": 1790846664432.35
+        "id": 1791789148236.6846
+      },
+      {
+        "text": "Karınca ilacı ve evi ilaçla",
+        "done": false,
+        "carried": true,
+        "id": 1791789148236.775
       }
     ]
   }
