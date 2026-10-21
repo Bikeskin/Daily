@@ -1225,48 +1225,80 @@
     "hayat": []
   },
   "2026-10-13": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-14": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-15": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-16": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-17": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-18": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-19": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-20": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-10-21": {
     "is": [
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1791872884498.6921
+        "id": 1792563075543.8208
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1791872884498.5725
+        "id": 1792563075543.2415
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1791872884498.5999
+        "id": 1792563075543.606
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1791872884498.4749
+        "id": 1792563075543.3745
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1791872884498.674
+        "id": 1792563075543.6533
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1791872884498.492
+        "id": 1792563075543.604
       },
       {
         "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1791872884498.4487
+        "id": 1792563075543.2908
       }
     ],
     "hayat": [
@@ -1274,25 +1306,25 @@
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1791872884499.0793
+        "id": 1792563075543.136
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
         "done": false,
         "carried": true,
-        "id": 1791872884499.233
+        "id": 1792563075543.8435
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1791872884499.7893
+        "id": 1792563075543.6128
       },
       {
         "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1791872884498.7964
+        "id": 1792563075543.0813
       }
     ]
   }
