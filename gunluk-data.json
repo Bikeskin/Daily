@@ -1388,13 +1388,13 @@
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.1296
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.1523
       },
