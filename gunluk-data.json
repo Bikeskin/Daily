@@ -1317,48 +1317,104 @@
     "hayat": []
   },
   "2026-11-05": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-06": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-07": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-08": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-09": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-10": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-11": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-12": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-13": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-14": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-15": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-16": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-17": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-18": {
+    "is": [],
+    "hayat": []
+  },
+  "2026-11-19": {
     "is": [
       {
         "text": "refresh token android konusu teymur ve şener",
         "done": false,
         "carried": true,
-        "id": 1793860581806.0347
+        "id": 1795117639391.0312
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
         "done": false,
         "carried": true,
-        "id": 1793860581806.252
+        "id": 1795117639391.757
       },
       {
         "text": "403 gelince ne yapmalıyız? Authenticator sadece 401 için çalışıyor.",
         "done": false,
         "carried": true,
-        "id": 1793860581806.5918
+        "id": 1795117639391.1296
       },
       {
         "text": "1 USD altındaysa 4 decimal olayı KW tarafında var mı? iOS handle etmiş mi?",
         "done": false,
         "carried": true,
-        "id": 1793860581806.997
+        "id": 1795117639391.1523
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
         "done": false,
         "carried": true,
-        "id": 1793860581806.3652
+        "id": 1795117639391.8801
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
         "done": false,
         "carried": true,
-        "id": 1793860581806.0774
+        "id": 1795117639391.3477
       },
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
         "done": false,
         "carried": true,
-        "id": 1793860581806.6506
+        "id": 1795117639391.4565
       }
     ],
     "hayat": [
@@ -1366,25 +1422,25 @@
         "text": "kuveyt zad hesabı aç",
         "done": false,
         "carried": true,
-        "id": 1793860581806.4326
+        "id": 1795117639391.661
       },
       {
         "text": "Cold brew yap",
         "done": false,
         "carried": true,
-        "id": 1793860581806.3442
+        "id": 1795117639391.0647
       },
       {
         "text": "Milletten eşyalarını topla batu kemer ayakkabı, taner matkap, özge huddy, tenis raketleri",
         "done": false,
         "carried": true,
-        "id": 1793860581806.8276
+        "id": 1795117639391.7764
       },
       {
         "text": "Karınca ilacı ve evi ilaçla",
         "done": false,
         "carried": true,
-        "id": 1793860581806.718
+        "id": 1795117639391.122
       }
     ]
   }
