@@ -1376,13 +1376,13 @@
     "is": [
       {
         "text": "refresh token android konusu teymur ve şener",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.0312
       },
       {
         "text": "prep order başarısız dönünce ekran boş kalsın ya da dismiss etsin",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.757
       },
