@@ -1400,19 +1400,19 @@
       },
       {
         "text": "HeaderHelper her yerde kullanılsın!!!",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.8801
       },
       {
         "text": "Settings ve Robo Settings altındaki Auto Login false yapınca release build alamıyor.",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.3477
       },
       {
         "text": "Order akışlarındaki kuralların KW market uyarlamaları nasıl oalcak?",
-        "done": false,
+        "done": true,
         "carried": true,
         "id": 1795117639391.4565
       }
